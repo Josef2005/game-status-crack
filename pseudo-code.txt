@@ -3,45 +3,42 @@ Library game-status-crack
     games = games database file
 
 
-    FUNCTION formattedGameText(game) 
+    FUNCTION formattedGameText(game)
         RETURN id: ....
         Title: ....
-        Release Year: ... 
+        Release Year: ...
         etc.
     ENDFUNCTION
 
 
 
     FUNCTION filterGame(condition)
-        SET foundGames = []
-        
-        FOR game of games
-            IF condition THEN
-                ADD game to foundGames
-            ENDIF
-        ENDFOR 
-        
-        IF foundGames.length = 0 THEN 
-            RETURN "No game found"
+        SET foundGames = games.filter(condition)
+
+        IF foundGames.length = 0 THEN
+            RETURN "No games found"
         ENDIF
-    
+
+        SET formattedGamesList = []
         FOR game of foundGames
-            PRINT formattedGameText(game)
+            ADD formattedGameText(game) to formattedGamesList
         ENDFOR
+
+        RETURN join(formattedGamesList, "\n\n")
     ENDFUNCTION
 
 
 
     FUNCTION findGame(condition)
         SET foundGame
-        
+
         FOR game of games
             IF condition THEN
-                foundGame = game
+                RETURN formattedGameText(game)
             ENDIF
-        ENDFOR 
+        ENDFOR
 
-        PRINT formattedGameText(foundGame)
+        RETURN "Game not found"
     ENDFUNCTION
 
 
@@ -49,62 +46,65 @@ Library game-status-crack
     FUNCTION getGameById(gameId)
         RETURN findGame(game.id = gameId)
     ENDFUNCTION
-    
-    
+
+
+
     FUNCTION getGameByTitle(gameTitle)
         RETURN findGame(game.title = gameTitle)
     ENDFUNCTION
-    
- 
-   
+
+
+
     FUNCTION getGames()
-        FOR game of games 
-            PRINT formattedGameText(game)
+        SET formattedGamesList = []
+
+        FOR game of games
+            ADD formattedGameText(game) to formattedGamesList
         ENDFOR
+
+        RETURN join(formattedGamesList, "\n\n")
     ENDFUNCTION
-    
-    
-    
+
+
+
     FUNCTION getGamesByGenre(genreGame)
         RETURN filterGame(game.genre === genreGame)
     ENDFUNCTION
-   
-  
-  
+
+
+
     FUNCTION getCrackedGames()
         RETURN filterGame(game.cracked = true)
     ENDFUNCTION
-        
-      
-        
+
+
+
     FUNCTION getUncrackedGames()
-        RETURN filterGame(game.cracked = false) 
+        RETURN filterGame(game.cracked = false)
     ENDFUNCTION
-    
-    
-    
-    FUNCTION getGameByReleaseYear(year) 
+
+
+
+    FUNCTION getGameByReleaseYear(year)
         RETURN filterGame(game.release_year = year)
     ENDFUNCTION
-    
-    
-    
+
+
+
     FUNCTION getGameByPriceRange(min, max)
-        RETURN filterGame(game.release_price >= min AND game.release_price <= max) 
+        RETURN filterGame(game.release_price >= min AND game.release_price <= max)
     ENDFUNCTION
-    
-    
-    
+
+
+
     FUNCTION getByDRM(drmType)
-        RETURN filterGame(game.drm = drmType) 
+        RETURN filterGame(game.drm = drmType)
     ENDFUNCTION
-    
-    
-    
+
+
+
     FUNCTION findGamesCrackedBy(crackerGroup)
         RETURN filterGame(game.cracked_by = crackerGroup)
-    ENDFUNCTION   
+    ENDFUNCTION
 
 END
-
-
