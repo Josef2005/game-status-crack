@@ -1,7 +1,7 @@
 Library game-status-crack
 
 
-    FUNCTION formattedText(game) 
+    FUNCTION formattedGameText(game) 
         RETURN id: ....
         Title: ....
         Release Year: ... 
@@ -104,3 +104,4 @@ Library game-status-crack
     ENDFUNCTION   
 
 END
+
