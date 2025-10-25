@@ -1,4 +1,4 @@
-Library game-status
+Library game-status-crack
 
 
     FUNCTION formattedText(game) 
@@ -102,4 +102,5 @@ Library game-status
     FUNCTION findGamesCrackedBy(crackerGroup)
         RETURN filterGame(game.cracked_by = crackerGroup)
     ENDFUNCTION   
+
 END
