@@ -20,7 +20,7 @@ function filterGame(condition) {
     const foundGames = games.filter(condition);
 
     if (foundGames.length === 0) {
-        return 'No game found';
+        return 'No games found';
     }
 
     const formattedGames = foundGames.map(game => formattedGameText(game));
@@ -33,7 +33,7 @@ function findGame(condition) {
     if (foundGame) {
         return formattedGameText(foundGame);
     } else {
-        return 'No game found';
+        return 'Game not found';
     }
 }
 
@@ -80,12 +80,3 @@ exports.findGamesCrackedBy = function (crackerGroup) {
         return cracker && cracker.toLowerCase() === crackerGroup.toLowerCase();
     });
 }
-
-
-
-
-
-
-
-
-
