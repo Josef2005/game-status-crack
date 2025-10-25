@@ -1,5 +1,7 @@
 Library game-status-crack
 
+    games = games database file
+
 
     FUNCTION formattedGameText(game) 
         RETURN id: ....
@@ -104,4 +106,5 @@ Library game-status-crack
     ENDFUNCTION   
 
 END
+
 
