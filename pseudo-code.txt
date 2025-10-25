@@ -1,0 +1,105 @@
+Library game-status
+
+
+    FUNCTION formattedText(game) 
+        RETURN id: ....
+        Title: ....
+        Release Year: ... 
+        etc.
+    ENDFUNCTION
+
+
+
+    FUNCTION filterGame(condition)
+        SET foundGames = []
+        
+        FOR game of games
+            IF condition THEN
+                ADD game to foundGames
+            ENDIF
+        ENDFOR 
+        
+        IF foundGames.length = 0 THEN 
+            RETURN "No game found"
+        ENDIF
+    
+        FOR game of foundGames
+            PRINT formattedGameText(game)
+        ENDFOR
+    ENDFUNCTION
+
+
+
+    FUNCTION findGame(condition)
+        SET foundGame
+        
+        FOR game of games
+            IF condition THEN
+                foundGame = game
+            ENDIF
+        ENDFOR 
+
+        PRINT formattedGameText(foundGame)
+    ENDFUNCTION
+
+
+
+    FUNCTION getGameById(gameId)
+        RETURN findGame(game.id = gameId)
+    ENDFUNCTION
+    
+    
+    FUNCTION getGameByTitle(gameTitle)
+        RETURN findGame(game.title = gameTitle)
+    ENDFUNCTION
+    
+ 
+   
+    FUNCTION getGames()
+        FOR game of games 
+            PRINT formattedGameText(game)
+        ENDFOR
+    ENDFUNCTION
+    
+    
+    
+    FUNCTION getGamesByGenre(genreGame)
+        RETURN filterGame(game.genre === genreGame)
+    ENDFUNCTION
+   
+  
+  
+    FUNCTION getCrackedGames()
+        RETURN filterGame(game.cracked = true)
+    ENDFUNCTION
+        
+      
+        
+    FUNCTION getUncrackedGames()
+        RETURN filterGame(game.cracked = false) 
+    ENDFUNCTION
+    
+    
+    
+    FUNCTION getGameByReleaseYear(year) 
+        RETURN filterGame(game.release_year = year)
+    ENDFUNCTION
+    
+    
+    
+    FUNCTION getGameByPriceRange(min, max)
+        RETURN filterGame(game.release_price >= min AND game.release_price <= max) 
+    ENDFUNCTION
+    
+    
+    
+    FUNCTION getByDRM(drmType)
+        RETURN filterGame(game.drm = drmType) 
+    ENDFUNCTION
+    
+    
+    
+    FUNCTION findGamesCrackedBy(crackerGroup)
+        RETURN filterGame(game.cracked_by = crackerGroup)
+    ENDFUNCTION   
+END

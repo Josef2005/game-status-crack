@@ -1,0 +1,149 @@
+Title: Cyberpunk 2077, id: cyberpunk-2077
+Title: Elden Ring, id: elden-ring
+Title: Baldur's Gate 3, id: baldurs-gate-3
+Title: Red Dead Redemption 2, id: red-dead-redemption-2
+Title: Alan Wake 2, id: alan-wake-2
+Title: Starfield, id: starfield
+Title: Hogwarts Legacy, id: hogwarts-legacy
+Title: Diablo IV, id: diablo-iv
+Title: Resident Evil 4 (2023), id: resident-evil-4-remake
+Title: The Last of Us Part I, id: the-last-of-us-part-i
+Title: Hollow Knight, id: hollow-knight
+Title: Stardew Valley, id: stardew-valley
+Title: Sekiro: Shadows Die Twice, id: sekiro-shadows-die-twice
+Title: Control, id: control
+Title: Death Stranding, id: death-stranding
+Title: Ghost of Tsushima DIRECTOR'S CUT, id: ghost-of-tsushima
+Title: DOOM Eternal, id: doom-eternal
+Title: Half-Life: Alyx, id: half-life-alyx
+Title: Assassin's Creed Valhalla, id: assassins-creed-valhalla
+Title: Valorant, id: valorant
+Title: Genshin Impact, id: genshin-impact
+Title: Phasmophobia, id: phasmophobia
+Title: Among Us, id: among-us
+Title: Fall Guys, id: fall-guys
+Title: Lethal Company, id: lethal-company
+Title: Valheim, id: valheim
+Title: The Witcher 3: Wild Hunt, id: the-witcher-3-wild-hunt
+Title: Portal 2, id: portal-2
+Title: Terraria, id: terraria
+Title: Hades, id: hades
+Title: Disco Elysium - The Final Cut, id: disco-elysium
+Title: God of War, id: god-of-war
+Title: Marvel's Spider-Man Remastered, id: marvels-spider-man-remastered
+Title: Lies of P, id: lies-of-p
+Title: DAVE THE DIVER, id: dave-the-diver
+Title: Forza Horizon 5, id: forza-horizon-5
+Title: Microsoft Flight Simulator, id: microsoft-flight-simulator-2020
+Title: Stray, id: stray
+Title: Deep Rock Galactic, id: deep-rock-galactic
+Title: Outer Wilds, id: outer-wilds
+Title: No Man's Sky, id: no-mans-sky
+Title: Factorio, id: factorio
+Title: RimWorld, id: rimworld
+Title: Sea of Thieves, id: sea-of-thieves
+Title: FINAL FANTASY VII REMAKE INTERGRADE, id: final-fantasy-vii-remake-intergrade
+Title: Persona 5 Royal, id: persona-5-royal
+Title: Sifu, id: sifu
+Title: Cult of the Lamb, id: cult-of-the-lamb
+Title: V Rising, id: v-rising
+Title: Ready or Not, id: ready-or-not
+Title: Palworld, id: palworld
+Title: HELLDIVERS 2, id: helldivers-2
+Title: Horizon Forbidden West Complete Edition, id: horizon-forbidden-west
+Title: Dragon's Dogma 2, id: dragons-dogma-2
+Title: Manor Lords, id: manor-lords
+Title: Dying Light 2 Stay Human, id: dying-light-2-stay-human
+Title: Tiny Tina's Wonderlands, id: tiny-tinas-wonderlands
+Title: A Plague Tale: Requiem, id: a-plague-tale-requiem
+Title: Call of Duty: Modern Warfare II (2022), id: call-of-duty-modern-warfare-ii
+Title: Overwatch 2, id: overwatch-2
+Title: The Callisto Protocol, id: the-callisto-protocol
+Title: Dead Space (2023), id: dead-space-remake
+Title: STAR WARS Jedi: Survivor, id: jedi-survivor
+Title: Street Fighter 6, id: street-fighter-6
+Title: Remnant II, id: remnant-2
+Title: ARMORED CORE VI FIRES OF RUBICON, id: armored-core-vi-fires-of-rubicon
+Title: PAYDAY 3, id: payday-3
+Title: Mortal Kombat 1, id: mortal-kombat-1
+Title: Lords of the Fallen, id: lords-of-the-fallen
+Title: Cities: Skylines II, id: cities-skylines-ii
+Title: The Talos Principle 2, id: the-talos-principle-2
+Title: Like a Dragon Gaiden: The Man Who Erased His Name, id: like-a-dragon-gaiden-the-man-who-erased-his-name
+Title: Avatar: Frontiers of Pandora, id: avatar-frontiers-of-pandora
+Title: THE FINALS, id: the-finals
+Title: The Outlast Trials, id: the-outlast-trials
+Title: Like a Dragon: Infinite Wealth, id: like-a-dragon-infinite-wealth
+Title: TEKKEN 8, id: tekken-8
+Title: Suicide Squad: Kill the Justice League, id: suicide-squad-kill-the-justice-league
+Title: Granblue Fantasy: Relink, id: granblue-fantasy-relink
+Title: Skull and Bones, id: skull-and-bones
+Title: Pacific Drive, id: pacific-drive
+Title: Satisfactory, id: satisfactory
+Title: Subnautica, id: subnautica
+Title: Grand Theft Auto V, id: grand-theft-auto-v
+Title: The Elder Scrolls V: Skyrim Special Edition, id: the-elder-scrolls-v-skyrim
+Title: Fallout 4, id: fallout-4
+Title: Left 4 Dead 2, id: left-4-dead-2
+Title: The Binding of Isaac: Rebirth, id: the-binding-of-isaac-rebirth
+Title: Dead Cells, id: dead-cells
+Title: Cuphead, id: cuphead
+Title: Celeste, id: celeste
+Title: Ori and the Will of the Wisps, id: ori-and-the-will-of-the-wisps
+Title: Monster Hunter: World, id: monster-hunter-world
+Title: Monster Hunter Rise, id: monster-hunter-rise
+Title: NieR:Automata, id: nier-automata
+Title: DARK SOULS III, id: dark-souls-iii
+Title: XCOM 2, id: xcom-2
+Title: Divinity: Original Sin 2 - Definitive Edition, id: divinity-original-sin-2
+Title: Path of Exile, id: path-of-exile
+Title: Warframe, id: warframe
+Title: Apex Legends, id: apex-legends
+Title: Fortnite, id: fortnite
+Title: BioShock Infinite, id: bioshock-infinite
+Title: Dishonored, id: dishonored
+Title: Prey, id: prey-2017
+Title: Titanfall 2, id: titanfall-2
+Title: Mass Effect Legendary Edition, id: mass-effect-legendary-edition
+Title: Borderlands 3, id: borderlands-3
+Title: Crusader Kings III, id: crusader-kings-iii
+Title: Europa Universalis IV, id: europa-universalis-iv
+Title: Hearts of Iron IV, id: hearts-of-iron-iv
+Title: Total War: WARHAMMER III, id: total-war-warhammer-iii
+Title: Age of Empires IV, id: age-of-empires-iv
+Title: Frostpunk, id: frostpunk
+Title: Inscryption, id: inscryption
+Title: Slay the Spire, id: slay-the-spire
+Title: Darkest Dungeon, id: darkest-dungeon
+Title: The Forest, id: the-forest
+Title: Rust, id: rust
+Title: ARK: Survival Evolved, id: ark-survival-evolved
+Title: DayZ, id: dayz
+Title: Escape from Tarkov, id: escape-from-tarkov
+Title: Squad, id: squad
+Title: Hell Let Loose, id: hell-let-loose
+Title: Tom Clancy's Rainbow Six Siege, id: tom-clancys-rainbow-six-siege
+Title: Battlefield 2042, id: battlefield-2042
+Title: The Sims 4, id: the-sims-4
+Title: Planet Zoo, id: planet-zoo
+Title: Jurassic World Evolution 2, id: jurassic-world-evolution-2
+Title: Oxygen Not Included, id: oxygen-not-included
+Title: Don't Starve Together, id: dont-starve-together
+Title: Subnautica: Below Zero, id: subnautica-below-zero
+Title: Green Hell, id: green-hell
+Title: The Long Dark, id: the-long-dark
+Title: Metro Exodus, id: metro-exodus
+Title: Wolfenstein II: The New Colossus, id: wolfenstein-ii-the-new-colossus
+Title: HITMAN 3, id: hitman-3
+Title: METAL GEAR SOLID V: THE PHANTOM PAIN, id: metal-gear-solid-v-the-phantom-pain
+Title: Shadow of the Tomb Raider, id: shadow-of-the-tomb-raider
+Title: Deus Ex: Mankind Divided, id: deus-ex-mankind-divided
+Title: Watch Dogs: Legion, id: watch-dogs-legion
+Title: Far Cry 6, id: far-cry-6
+Title: Ghostwire: Tokyo, id: ghostwire-tokyo
+Title: DEATHLOOP, id: deathloop
+Title: Vampire Survivors, id: vampire-survivors
+Title: PowerWash Simulator, id: powerwash-simulator
+Title: Euro Truck Simulator 2, id: euro-truck-simulator-2
+Title: The Stanley Parable: Ultra Deluxe, id: the-stanley-parable-ultra-deluxe
+Title: Mount & Blade II: Bannerlord, id: mount-and-blade-ii-bannerlord

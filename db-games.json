@@ -1,0 +1,6670 @@
+[
+  {
+    "id": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "description": "An open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i7-6700",
+        "ram": "12 GB",
+        "gpu": "GTX 1060 6GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-12700",
+        "ram": "16 GB",
+        "gpu": "RTX 2060 SUPER"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 83,
+      "count": 568450
+    },
+    "playtime": {
+      "main_story": "25 hours",
+      "completionist": "105 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "elden-ring",
+    "title": "Elden Ring",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "description": "Arise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-8400",
+        "ram": "12 GB",
+        "gpu": "GTX 1060 3GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-8700K",
+        "ram": "16 GB",
+        "gpu": "GTX 1070 8GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 92,
+      "count": 556300
+    },
+    "playtime": {
+      "main_story": "58 hours",
+      "completionist": "132 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "PLAZA"
+    }
+  },
+  {
+    "id": "baldurs-gate-3",
+    "title": "Baldur's Gate 3",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "CRPG",
+        "Turn-Based"
+      ],
+      "description": "Gather your party, and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "i5-4690",
+        "ram": "8 GB",
+        "gpu": "GTX 970"
+      },
+      "recommended": {
+        "cpu": "i7 8700K",
+        "ram": "16 GB",
+        "gpu": "RTX 2060 Super"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 96,
+      "count": 578900
+    },
+    "playtime": {
+      "main_story": "60 hours",
+      "completionist": "145 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "red-dead-redemption-2",
+    "title": "Red Dead Redemption 2",
+    "release_year": 2019,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Open World"
+      ],
+      "description": "The story of Arthur Morgan, a member of the Van der Linde gang, set in a fictionalized representation of the American Old West in 1899."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "i5-2500K",
+        "ram": "8 GB",
+        "gpu": "GTX 770 2GB"
+      },
+      "recommended": {
+        "cpu": "i7-4770K",
+        "ram": "12 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 91,
+      "count": 515800
+    },
+    "playtime": {
+      "main_story": "50 hours",
+      "completionist": "180 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Rockstar Social Club"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "alan-wake-2",
+    "title": "Alan Wake 2",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Survival Horror"
+      ],
+      "description": "A sequel to the cult classic, Alan Wake 2 continues the story of the troubled writer in a desperate fight against a supernatural darkness."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "i5-7600K",
+        "ram": "16 GB",
+        "gpu": "RTX 2060"
+      },
+      "recommended": {
+        "cpu": "Ryzen 7 3700X",
+        "ram": "16 GB",
+        "gpu": "RTX 3070"
+      }
+    },
+    "reviews": {
+      "source": "Epic Games",
+      "rating_percentage": 92,
+      "count": 15000
+    },
+    "playtime": {
+      "main_story": "15 hours",
+      "completionist": "25 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Epic Games"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "starfield",
+    "title": "Starfield",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Open World",
+        "Sci-Fi"
+      ],
+      "description": "Starfield is the first new universe in 25 years from Bethesda Game Studios, the award-winning creators of The Elder Scrolls V: Skyrim and Fallout 4."
+    },
+    "release_price": {
+      "amount": 69.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Ryzen 5 2600X",
+        "ram": "16 GB",
+        "gpu": "GTX 1070 Ti"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 3600X",
+        "ram": "16 GB",
+        "gpu": "RTX 2080"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 69,
+      "count": 105000
+    },
+    "playtime": {
+      "main_story": "25 hours",
+      "completionist": "120 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "hogwarts-legacy",
+    "title": "Hogwarts Legacy",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "description": "Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-6600",
+        "ram": "16 GB",
+        "gpu": "GTX 960 4GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-8700",
+        "ram": "16 GB",
+        "gpu": "GTX 1080 Ti"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 91,
+      "count": 210000
+    },
+    "playtime": {
+      "main_story": "26 hours",
+      "completionist": "68 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "diablo-iv",
+    "title": "Diablo IV",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Hack and Slash"
+      ],
+      "description": "The endless battle between the High Heavens and the Burning Hells rages on as chaos threatens to consume Sanctuary."
+    },
+    "release_price": {
+      "amount": 69.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-2500K",
+        "ram": "8 GB",
+        "gpu": "GTX 660"
+      },
+      "recommended": {
+        "cpu": "Core i5-4670K",
+        "ram": "16 GB",
+        "gpu": "GTX 970"
+      }
+    },
+    "reviews": {
+      "source": "Battle.net",
+      "rating_percentage": 75,
+      "count": 50000
+    },
+    "playtime": {
+      "main_story": "25 hours",
+      "completionist": "150 hours"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Battle.net (Online-Only)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "resident-evil-4-remake",
+    "title": "Resident Evil 4 (2023)",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Survival Horror",
+        "Third-Person Shooter"
+      ],
+      "description": "Survival is just the beginning. A remake of the 2005 original, now with modernized gameplay, a reimagined storyline, and vividly detailed graphics."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Ryzen 3 1200",
+        "ram": "8 GB",
+        "gpu": "RX 560 4GB"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 3600",
+        "ram": "16 GB",
+        "gpu": "RX 5700"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 85000
+    },
+    "playtime": {
+      "main_story": "16 hours",
+      "completionist": "30 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "the-last-of-us-part-i",
+    "title": "The Last of Us Part I",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Survival Horror"
+      ],
+      "description": "Experience the emotional storytelling and unforgettable characters of The Last of Us, winner of over 200 Game of the Year awards, now on PC."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Ryzen 5 1500X",
+        "ram": "16 GB",
+        "gpu": "GTX 970 4GB"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 3600X",
+        "ram": "16 GB",
+        "gpu": "RTX 2070 SUPER"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 70,
+      "count": 45000
+    },
+    "playtime": {
+      "main_story": "15 hours",
+      "completionist": "22 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "release_year": 2017,
+    "info": {
+      "genre": [
+        "Metroidvania",
+        "Indie"
+      ],
+      "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes."
+    },
+    "release_price": {
+      "amount": 14.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo E5200",
+        "ram": "4 GB",
+        "gpu": "GeForce 9800GTX+"
+      },
+      "recommended": {
+        "cpu": "Core i5",
+        "ram": "8 GB",
+        "gpu": "GeForce GTX 560"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 314500
+    },
+    "playtime": {
+      "main_story": "27 hours",
+      "completionist": "45 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "stardew-valley",
+    "title": "Stardew Valley",
+    "release_year": 2016,
+    "info": {
+      "genre": [
+        "Farming Sim",
+        "RPG",
+        "Indie"
+      ],
+      "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life."
+    },
+    "release_price": {
+      "amount": 13.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "2 GHz",
+        "ram": "2 GB",
+        "gpu": "256 MB VRAM"
+      },
+      "recommended": {
+        "cpu": "2 GHz",
+        "ram": "2 GB",
+        "gpu": "256 MB VRAM"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 98,
+      "count": 543200
+    },
+    "playtime": {
+      "main_story": "52 hours",
+      "completionist": "160 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "sekiro-shadows-die-twice",
+    "title": "Sekiro: Shadows Die Twice",
+    "release_year": 2019,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Souls-like"
+      ],
+      "description": "Carve your own clever path to vengeance in an all-new adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-2100",
+        "ram": "4 GB",
+        "gpu": "GTX 760"
+      },
+      "recommended": {
+        "cpu": "Core i5-2500K",
+        "ram": "8 GB",
+        "gpu": "GTX 970"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 95,
+      "count": 205000
+    },
+    "playtime": {
+      "main_story": "30 hours",
+      "completionist": "70 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "control",
+    "title": "Control",
+    "release_year": 2019,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Third-Person Shooter"
+      ],
+      "description": "A supernatural 3rd person action-adventure will challenge you to master a combination of supernatural abilities, modifiable loadouts and reactive environments."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4690",
+        "ram": "8 GB",
+        "gpu": "GTX 780"
+      },
+      "recommended": {
+        "cpu": "Core i5-7600K",
+        "ram": "16 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 91,
+      "count": 55000
+    },
+    "playtime": {
+      "main_story": "12 hours",
+      "completionist": "25 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Epic Games",
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "death-stranding",
+    "title": "Death Stranding",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Action",
+        "Walking Simulator"
+      ],
+      "description": "From legendary game creator Hideo Kojima comes a genre-defying experience. Sam Bridges must brave a world utterly transformed by the Death Stranding."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-3470",
+        "ram": "8 GB",
+        "gpu": "GTX 1050 3GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-3770",
+        "ram": "8 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 93,
+      "count": 80000
+    },
+    "playtime": {
+      "main_story": "40 hours",
+      "completionist": "110 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "CPY"
+    }
+  },
+  {
+    "id": "ghost-of-tsushima",
+    "title": "Ghost of Tsushima DIRECTOR'S CUT",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Open World"
+      ],
+      "description": "Forge a new path and wage an unconventional war for the freedom of Tsushima in this open-world action adventure, now on PC."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-7100",
+        "ram": "8 GB",
+        "gpu": "GTX 960 4GB"
+      },
+      "recommended": {
+        "cpu": "Core i5-8600",
+        "ram": "16 GB",
+        "gpu": "RTX 2060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 92,
+      "count": 40000
+    },
+    "playtime": {
+      "main_story": "25 hours",
+      "completionist": "60 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam",
+        "PSN Optional"
+      ],
+      "cracked_by": "FAIRLIGHT"
+    }
+  },
+  {
+    "id": "doom-eternal",
+    "title": "DOOM Eternal",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "First-Person Shooter"
+      ],
+      "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5 @ 3.3 GHz",
+        "ram": "8 GB",
+        "gpu": "GTX 970 4GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-6700K",
+        "ram": "8 GB",
+        "gpu": "GTX 1080 8GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 91,
+      "count": 150000
+    },
+    "playtime": {
+      "main_story": "14 hours",
+      "completionist": "25 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo (Removed)",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "half-life-alyx",
+    "title": "Half-Life: Alyx",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "VR",
+        "First-Person Shooter"
+      ],
+      "description": "Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-7500",
+        "ram": "12 GB",
+        "gpu": "GTX 1060 6GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-9700K",
+        "ram": "16 GB",
+        "gpu": "RTX 2070 SUPER"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 98,
+      "count": 90000
+    },
+    "playtime": {
+      "main_story": "12 hours",
+      "completionist": "15 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "VREX"
+    }
+  },
+  {
+    "id": "assassins-creed-valhalla",
+    "title": "Assassin's Creed Valhalla",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "description": "Become a legendary Viking warrior raised on tales of battle and glory. Raid your enemies, grow your settlement, and build your political power."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Ryzen 3 1200",
+        "ram": "8 GB",
+        "gpu": "RX 560 4GB"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 3600X",
+        "ram": "16 GB",
+        "gpu": "RX Vega 64"
+      }
+    },
+    "reviews": {
+      "source": "Ubisoft Connect",
+      "rating_percentage": 85,
+      "count": 120000
+    },
+    "playtime": {
+      "main_story": "60 hours",
+      "completionist": "140 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Ubisoft Connect"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "valorant",
+    "title": "Valorant",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Tactical Shooter",
+        "Free-to-Play"
+      ],
+      "description": "A 5v5 character-based tactical shooter where precise gunplay meets unique agent abilities."
+    },
+    "release_price": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo E8400",
+        "ram": "4 GB",
+        "gpu": "Intel HD 4000"
+      },
+      "recommended": {
+        "cpu": "Core i3-4150",
+        "ram": "4 GB",
+        "gpu": "GeForce GT 730"
+      }
+    },
+    "reviews": {
+      "source": "Riot Games",
+      "rating_percentage": 90,
+      "count": 1000000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Vanguard (Kernel-Level)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "genshin-impact",
+    "title": "Genshin Impact",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Gacha",
+        "Free-to-Play"
+      ],
+      "description": "Step into a vast magical world for an adventure of a lifetime! You and your sibling arrived here from another world. Separated by an unknown god, stripped of your powers, and cast into a deep slumber."
+    },
+    "release_price": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5",
+        "ram": "8 GB",
+        "gpu": "GT 1030"
+      },
+      "recommended": {
+        "cpu": "Core i7",
+        "ram": "16 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "miHoYo",
+      "rating_percentage": 95,
+      "count": 2000000
+    },
+    "playtime": {
+      "main_story": "50 hours",
+      "completionist": "300+ hours"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Online-Only"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "phasmophobia",
+    "title": "Phasmophobia",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Horror",
+        "Co-op",
+        "Indie"
+      ],
+      "description": "Phasmophobia is a 4 player online co-op psychological horror where you and your team members of paranormal investigators will enter haunted locations filled with paranormal activity."
+    },
+    "release_price": {
+      "amount": 11.59,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4590",
+        "ram": "8 GB",
+        "gpu": "GTX 970"
+      },
+      "recommended": {
+        "cpu": "Core i5-10600",
+        "ram": "8 GB",
+        "gpu": "RTX 2060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 96,
+      "count": 500000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "among-us",
+    "title": "Among Us",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "Social Deduction",
+        "Co-op",
+        "Indie"
+      ],
+      "description": "An online and local party game of teamwork and betrayal for 4-15 players...in space!"
+    },
+    "release_price": {
+      "amount": 3.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "SSE2 instruction set support",
+        "ram": "1 GB",
+        "gpu": "Integrated"
+      },
+      "recommended": {
+        "cpu": "SSE2 instruction set support",
+        "ram": "1 GB",
+        "gpu": "Integrated"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 92,
+      "count": 600000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "fall-guys",
+    "title": "Fall Guys",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Party Game",
+        "Platformer",
+        "Free-to-Play"
+      ],
+      "description": "Fall Guys is a free, cross-platform, massively multiplayer, party royale game where you and your fellow contestants compete through escalating rounds of absurd obstacle course chaos."
+    },
+    "release_price": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5",
+        "ram": "8 GB",
+        "gpu": "GTX 660"
+      },
+      "recommended": {
+        "cpu": "Core i5",
+        "ram": "8 GB",
+        "gpu": "GTX 660"
+      }
+    },
+    "reviews": {
+      "source": "Epic Games",
+      "rating_percentage": 80,
+      "count": 400000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Easy Anti-Cheat"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "valheim",
+    "title": "Valheim",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "Survival",
+        "Sandbox",
+        "Indie"
+      ],
+      "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture."
+    },
+    "release_price": {
+      "amount": 16.79,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "2.6 GHz Quad Core",
+        "ram": "8 GB",
+        "gpu": "GTX 950"
+      },
+      "recommended": {
+        "cpu": "3.0 GHz Quad Core",
+        "ram": "16 GB",
+        "gpu": "GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 95,
+      "count": 350000
+    },
+    "playtime": {
+      "main_story": "70 hours",
+      "completionist": "150 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "the-witcher-3-wild-hunt",
+    "title": "The Witcher 3: Wild Hunt",
+    "release_year": 2015,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "description": "You are Geralt of Rivia, mercenary monster slayer. At your disposal is every tool of the trade: razor-sharp swords, lethal mixtures, stealthy crossbows, and powerful combat magic."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-2500K",
+        "ram": "6 GB",
+        "gpu": "GTX 660"
+      },
+      "recommended": {
+        "cpu": "Core i7-3770",
+        "ram": "8 GB",
+        "gpu": "GTX 770"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 720100
+    },
+    "playtime": {
+      "main_story": "51 hours",
+      "completionist": "172 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "portal-2",
+    "title": "Portal 2",
+    "release_year": 2011,
+    "info": {
+      "genre": [
+        "Puzzle-Platformer"
+      ],
+      "description": "The 'Perpetual Testing Initiative' has been expanded to allow you to design and build puzzles for yourself and your friends!"
+    },
+    "release_price": {
+      "amount": 9.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "3.0 GHz P4, Dual Core 2.0",
+        "ram": "2 GB",
+        "gpu": "NVIDIA 7600 GS"
+      },
+      "recommended": {
+        "cpu": "Core 2 Duo 2.4 GHz",
+        "ram": "3 GB",
+        "gpu": "NVIDIA 8800 GT"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 99,
+      "count": 350000
+    },
+    "playtime": {
+      "main_story": "8 hours",
+      "completionist": "19 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "SKIDROW"
+    }
+  },
+  {
+    "id": "terraria",
+    "title": "Terraria",
+    "release_year": 2011,
+    "info": {
+      "genre": [
+        "Sandbox",
+        "Survival",
+        "2D"
+      ],
+      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. The world is your canvas and the ground itself is your paint."
+    },
+    "release_price": {
+      "amount": 9.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "2.0 GHz",
+        "ram": "2.5 GB",
+        "gpu": "128MB VRAM, Shader Model 2.0+"
+      },
+      "recommended": {
+        "cpu": "Dual Core 3.0 GHz",
+        "ram": "4 GB",
+        "gpu": "256MB VRAM, Shader Model 2.0+"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 1000000
+    },
+    "playtime": {
+      "main_story": "53 hours",
+      "completionist": "200 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "hades",
+    "title": "Hades",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Roguelike",
+        "Action RPG",
+        "Indie"
+      ],
+      "description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion and Transistor."
+    },
+    "release_price": {
+      "amount": 20.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Dual Core 2.4 GHz",
+        "ram": "4 GB",
+        "gpu": "1GB VRAM / DirectX 10+"
+      },
+      "recommended": {
+        "cpu": "Quad Core 3.0 GHz+",
+        "ram": "8 GB",
+        "gpu": "2GB VRAM / DirectX 11+"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 98,
+      "count": 220000
+    },
+    "playtime": {
+      "main_story": "22 hours",
+      "completionist": "95 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam",
+        "Epic Games"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "disco-elysium",
+    "title": "Disco Elysium - The Final Cut",
+    "release_year": 2019,
+    "info": {
+      "genre": [
+        "CRPG",
+        "Indie"
+      ],
+      "description": "A groundbreaking open world role playing game. You’re a detective with a unique skill system at your disposal and a whole city block to carve your path across."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo",
+        "ram": "2 GB",
+        "gpu": "512MB VRAM"
+      },
+      "recommended": {
+        "cpu": "Core i7",
+        "ram": "8 GB",
+        "gpu": "2GB VRAM"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 94,
+      "count": 75000
+    },
+    "playtime": {
+      "main_story": "22 hours",
+      "completionist": "45 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "god-of-war",
+    "title": "God of War",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Action-Adventure"
+      ],
+      "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-2500K",
+        "ram": "8 GB",
+        "gpu": "GTX 960 4GB"
+      },
+      "recommended": {
+        "cpu": "Core i5-6600K",
+        "ram": "8 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 96,
+      "count": 90000
+    },
+    "playtime": {
+      "main_story": "20 hours",
+      "completionist": "51 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "FLT"
+    }
+  },
+  {
+    "id": "marvels-spider-man-remastered",
+    "title": "Marvel's Spider-Man Remastered",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Open World"
+      ],
+      "description": "In Marvel’s Spider-Man Remastered, the worlds of Peter Parker and Spider-Man collide in an original action-packed story."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-4160",
+        "ram": "8 GB",
+        "gpu": "GTX 950"
+      },
+      "recommended": {
+        "cpu": "Core i5-4670",
+        "ram": "16 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 96,
+      "count": 70000
+    },
+    "playtime": {
+      "main_story": "17 hours",
+      "completionist": "34 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "FLT"
+    }
+  },
+  {
+    "id": "lies-of-p",
+    "title": "Lies of P",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Souls-like",
+        "Action RPG"
+      ],
+      "description": "Lies of P is a thrilling soulslike that takes the story of Pinocchio, turns it on its head, and sets it against the darkly elegant backdrop of the Belle Epoque era."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Ryzen 3 1200",
+        "ram": "8 GB",
+        "gpu": "RX 560 4GB"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 3600",
+        "ram": "16 GB",
+        "gpu": "RTX 2060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 92,
+      "count": 30000
+    },
+    "playtime": {
+      "main_story": "30 hours",
+      "completionist": "60 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "FAIRLIGHT"
+    }
+  },
+  {
+    "id": "dave-the-diver",
+    "title": "DAVE THE DIVER",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Adventure",
+        "RPG",
+        "Indie"
+      ],
+      "description": "Explore a mysterious deep-sea cavern by day and run a sushi restaurant by night!"
+    },
+    "release_price": {
+      "amount": 19.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-3225",
+        "ram": "8 GB",
+        "gpu": "Intel HD 4000"
+      },
+      "recommended": {
+        "cpu": "Core i5-10400",
+        "ram": "16 GB",
+        "gpu": "GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 100000
+    },
+    "playtime": {
+      "main_story": "24 hours",
+      "completionist": "40 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "forza-horizon-5",
+    "title": "Forza Horizon 5",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "Racing",
+        "Open World"
+      ],
+      "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Ryzen 3 1200",
+        "ram": "8 GB",
+        "gpu": "RX 470"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 1500X",
+        "ram": "16 GB",
+        "gpu": "RX 590"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 88,
+      "count": 150000
+    },
+    "playtime": {
+      "main_story": "20 hours",
+      "completionist": "100 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Microsoft Store",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "microsoft-flight-simulator-2020",
+    "title": "Microsoft Flight Simulator",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Simulation"
+      ],
+      "description": "From light planes to wide-body jets, fly highly detailed and accurate aircraft in the next generation of Microsoft Flight Simulator."
+    },
+    "release_price": {
+      "amount": 69.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Ryzen 3 1200",
+        "ram": "8 GB",
+        "gpu": "RX 570"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 1500X",
+        "ram": "16 GB",
+        "gpu": "RX 590"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 82,
+      "count": 60000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Microsoft Store",
+        "Steam"
+      ],
+      "cracked_by": "HOODLUM"
+    }
+  },
+  {
+    "id": "stray",
+    "title": "Stray",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "description": "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten city."
+    },
+    "release_price": {
+      "amount": 26.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-2300",
+        "ram": "8 GB",
+        "gpu": "GTX 650 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i5-8400",
+        "ram": "8 GB",
+        "gpu": "GTX 780"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 140000
+    },
+    "playtime": {
+      "main_story": "5 hours",
+      "completionist": "8 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "deep-rock-galactic",
+    "title": "Deep Rock Galactic",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Co-op",
+        "First-Person Shooter",
+        "Indie"
+      ],
+      "description": "Deep Rock Galactic is a 1-4 player co-op FPS featuring badass space Dwarves, 100% destructible environments, procedurally-generated caves, and endless hordes of alien monsters."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "2.4 GHz Dual Core",
+        "ram": "6 GB",
+        "gpu": "GTX 460"
+      },
+      "recommended": {
+        "cpu": "2.4 GHz Quad Core",
+        "ram": "8 GB",
+        "gpu": "GTX 970"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 200000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "outer-wilds",
+    "title": "Outer Wilds",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Adventure",
+        "Exploration",
+        "Indie"
+      ],
+      "description": "Named Game of the Year 2019 by Giant Bomb, Polygon, Eurogamer, and The Guardian, Outer Wilds is a critically-acclaimed and award-winning open world mystery about a solar system trapped in an endless time loop."
+    },
+    "release_price": {
+      "amount": 20.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-2300",
+        "ram": "6 GB",
+        "gpu": "GTX 560"
+      },
+      "recommended": {
+        "cpu": "Core i5-8400",
+        "ram": "8 GB",
+        "gpu": "GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 95,
+      "count": 50000
+    },
+    "playtime": {
+      "main_story": "16 hours",
+      "completionist": "22 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam",
+        "Epic Games"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "no-mans-sky",
+    "title": "No Man's Sky",
+    "release_year": 2016,
+    "info": {
+      "genre": [
+        "Survival",
+        "Open World",
+        "Sci-Fi"
+      ],
+      "description": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated galaxy."
+    },
+    "release_price": {
+      "amount": 58.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3",
+        "ram": "8 GB",
+        "gpu": "GTX 480"
+      },
+      "recommended": {
+        "cpu": "Core i7",
+        "ram": "16 GB",
+        "gpu": "GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 76,
+      "count": 220000
+    },
+    "playtime": {
+      "main_story": "30 hours",
+      "completionist": "140 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "factorio",
+    "title": "Factorio",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Simulation",
+        "Strategy",
+        "Indie"
+      ],
+      "description": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world."
+    },
+    "release_price": {
+      "amount": 30.00,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Dual core 3GHz+",
+        "ram": "4 GB",
+        "gpu": "512MB VRAM"
+      },
+      "recommended": {
+        "cpu": "Quad core 3GHz+",
+        "ram": "8 GB",
+        "gpu": "2GB VRAM"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 98,
+      "count": 140000
+    },
+    "playtime": {
+      "main_story": "70 hours",
+      "completionist": "250 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "rimworld",
+    "title": "RimWorld",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "Colony Sim",
+        "Strategy",
+        "Indie"
+      ],
+      "description": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, and more."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo",
+        "ram": "4 GB",
+        "gpu": "512MB VRAM"
+      },
+      "recommended": {
+        "cpu": "Core i5",
+        "ram": "6 GB",
+        "gpu": "1GB VRAM"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 98,
+      "count": 150000
+    },
+    "playtime": {
+      "main_story": "70 hours",
+      "completionist": "300+ hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "sea-of-thieves",
+    "title": "Sea of Thieves",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Co-op"
+      ],
+      "description": "Sea of Thieves offers the essential pirate experience, from sailing and fighting to exploring and looting – everything you need to live the pirate life and become a legend in your own right."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Intel Q9450 @ 2.6GHz",
+        "ram": "4 GB",
+        "gpu": "GTX 650"
+      },
+      "recommended": {
+        "cpu": "Core i5-4690",
+        "ram": "8 GB",
+        "gpu": "GTX 770"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 90,
+      "count": 250000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Microsoft Store (Online-Only)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "final-fantasy-vii-remake-intergrade",
+    "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Action RPG"
+      ],
+      "description": "The world has fallen under the control of the Shinra Electric Power Company, a shadowy corporation controlling the planet’s very life force as mako energy."
+    },
+    "release_price": {
+      "amount": 79.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-3330",
+        "ram": "8 GB",
+        "gpu": "GTX 780"
+      },
+      "recommended": {
+        "cpu": "Core i7-3770",
+        "ram": "12 GB",
+        "gpu": "GTX 1080"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 89,
+      "count": 30000
+    },
+    "playtime": {
+      "main_story": "33 hours",
+      "completionist": "84 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Epic Games"
+      ],
+      "cracked_by": "FLT"
+    }
+  },
+  {
+    "id": "persona-5-royal",
+    "title": "Persona 5 Royal",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "JRPG",
+        "Turn-Based"
+      ],
+      "description": "Forced to transfer to a high school in Tokyo, the protagonist has a strange dream. “You truly are a prisoner of fate. In the near future, ruin awaits you.”"
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i7-4790",
+        "ram": "8 GB",
+        "gpu": "GTX 650 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i7-4790",
+        "ram": "8 GB",
+        "gpu": "GTX 760"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 45000
+    },
+    "playtime": {
+      "main_story": "101 hours",
+      "completionist": "143 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "sifu",
+    "title": "Sifu",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Action",
+        "Beat 'em up"
+      ],
+      "description": "Sifu is a stylish yet gritty beat-em-up, featuring visceral hand-to-hand combat in a contemporary urban setting."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-6600",
+        "ram": "8 GB",
+        "gpu": "GTX 970"
+      },
+      "recommended": {
+        "cpu": "Core i7-7700K",
+        "ram": "10 GB",
+        "gpu": "GTX 1070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 91,
+      "count": 15000
+    },
+    "playtime": {
+      "main_story": "9 hours",
+      "completionist": "25 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "cult-of-the-lamb",
+    "title": "Cult of the Lamb",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Roguelike",
+        "Colony Sim",
+        "Indie"
+      ],
+      "description": "Start your own cult in a land of false prophets, venturing out into diverse and mysterious regions to build a loyal community of woodland Followers and spread your Word to become the one true cult."
+    },
+    "release_price": {
+      "amount": 22.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-3240",
+        "ram": "4 GB",
+        "gpu": "GTX 560 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i5-3470",
+        "ram": "8 GB",
+        "gpu": "GTX 1050"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 94,
+      "count": 60000
+    },
+    "playtime": {
+      "main_story": "14 hours",
+      "completionist": "22 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "v-rising",
+    "title": "V Rising",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Survival",
+        "Action RPG",
+        "Open World"
+      ],
+      "description": "Awaken as a weakened vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery."
+    },
+    "release_price": {
+      "amount": 34.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-6600",
+        "ram": "12 GB",
+        "gpu": "GTX 750 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i5-11600K",
+        "ram": "12 GB",
+        "gpu": "GTX 1070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 88,
+      "count": 80000
+    },
+    "playtime": {
+      "main_story": "40 hours",
+      "completionist": "100 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Online-Fix"
+    }
+  },
+  {
+    "id": "lethal-company",
+    "title": "Lethal Company",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Horror",
+        "Co-op",
+        "Indie"
+      ],
+      "description": "A co-op horror about scavenging abandoned moons for scrap to sell to the Company."
+    },
+    "release_price": {
+      "amount": 9.75,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Intel Core i5-7400",
+        "ram": "4 GB",
+        "gpu": "NVIDIA GeForce GTX 1050"
+      },
+      "recommended": {
+        "cpu": "Intel Core i5-7400",
+        "ram": "4 GB",
+        "gpu": "NVIDIA GeForce GTX 1050"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 98,
+      "count": 250000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Online-Fix"
+    }
+  },
+  {
+    "id": "palworld",
+    "title": "Palworld",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Survival",
+        "Open World",
+        "Creature-Collector"
+      ],
+      "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game."
+    },
+    "release_price": {
+      "amount": 28.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-3570K",
+        "ram": "16 GB",
+        "gpu": "GTX 1050"
+      },
+      "recommended": {
+        "cpu": "Core i9-9900K",
+        "ram": "32 GB",
+        "gpu": "RTX 2070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 94,
+      "count": 280000
+    },
+    "playtime": {
+      "main_story": "50 hours",
+      "completionist": "120 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Online-Fix"
+    }
+  },
+  {
+    "id": "helldivers-2",
+    "title": "HELLDIVERS 2",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Co-op",
+        "Third-Person Shooter"
+      ],
+      "description": "The Galaxy’s Last Line of Offence. Enlist in the Helldivers and join the fight for freedom across a hostile galaxy in a fast, frantic, and ferocious third-person shooter."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i7-4790K",
+        "ram": "8 GB",
+        "gpu": "GTX 1050 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i7-9700K",
+        "ram": "16 GB",
+        "gpu": "RTX 2060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 82,
+      "count": 500000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "nProtect GameGuard (Kernel-Level)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "horizon-forbidden-west",
+    "title": "Horizon Forbidden West Complete Edition",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "description": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-8100",
+        "ram": "16 GB",
+        "gpu": "GTX 1650 4GB"
+      },
+      "recommended": {
+        "cpu": "Core i5-8600",
+        "ram": "16 GB",
+        "gpu": "RTX 3060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 90,
+      "count": 25000
+    },
+    "playtime": {
+      "main_story": "28 hours",
+      "completionist": "88 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "FAIRLIGHT"
+    }
+  },
+  {
+    "id": "dragons-dogma-2",
+    "title": "Dragon's Dogma 2",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "description": "Dragon’s Dogma 2 is a single player, narrative driven action-RPG that challenges players to choose their own experience – from the appearance of their Arisen, their vocation, their party, how to approach different situations and more."
+    },
+    "release_price": {
+      "amount": 64.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-10600",
+        "ram": "16 GB",
+        "gpu": "GTX 1070"
+      },
+      "recommended": {
+        "cpu": "Core i7-10700",
+        "ram": "16 GB",
+        "gpu": "RTX 2080"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 58,
+      "count": 60000
+    },
+    "playtime": {
+      "main_story": "30 hours",
+      "completionist": "80 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "manor-lords",
+    "title": "Manor Lords",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "City Builder",
+        "Strategy",
+        "Indie"
+      ],
+      "description": "Manor Lords is a medieval strategy game featuring in-depth city building, large-scale tactical battles, and complex economic and social simulations."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4670",
+        "ram": "8 GB",
+        "gpu": "GTX 1050 2GB"
+      },
+      "recommended": {
+        "cpu": "Core i5-7600",
+        "ram": "12 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 88,
+      "count": 40000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "dying-light-2-stay-human",
+    "title": "Dying Light 2 Stay Human",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Open World",
+        "Survival Horror"
+      ],
+      "description": "The virus won and civilization has fallen back to the Dark Ages. The City, one of the last human settlements, is on the brink of collapse."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-9100",
+        "ram": "8 GB",
+        "gpu": "GTX 1050 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i5-8600K",
+        "ram": "16 GB",
+        "gpu": "RTX 2060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 80,
+      "count": 120000
+    },
+    "playtime": {
+      "main_story": "24 hours",
+      "completionist": "80 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "tiny-tinas-wonderlands",
+    "title": "Tiny Tina's Wonderlands",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Looter Shooter"
+      ],
+      "description": "Embark on an epic adventure full of whimsy, wonder, and high-powered weaponry! Bullets, magic, and broadswords collide across this chaotic fantasy world."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-3570",
+        "ram": "6 GB",
+        "gpu": "GTX 960 4GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-4770",
+        "ram": "16 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 78,
+      "count": 15000
+    },
+    "playtime": {
+      "main_story": "18 hours",
+      "completionist": "40 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "a-plague-tale-requiem",
+    "title": "A Plague Tale: Requiem",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Stealth"
+      ],
+      "description": "Embark on a heartrending journey into a brutal, breathtaking world twisted by supernatural forces. After escaping their devastated homeland, Amicia and Hugo travel far south, to new regions and vibrant cities."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4690K",
+        "ram": "16 GB",
+        "gpu": "GTX 970"
+      },
+      "recommended": {
+        "cpu": "Core i7-8700K",
+        "ram": "16 GB",
+        "gpu": "RTX 3070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 92,
+      "count": 20000
+    },
+    "playtime": {
+      "main_story": "16 hours",
+      "completionist": "20 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "call-of-duty-modern-warfare-ii",
+    "title": "Call of Duty: Modern Warfare II (2022)",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "First-Person Shooter"
+      ],
+      "description": "Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141."
+    },
+    "release_price": {
+      "amount": 69.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-6100",
+        "ram": "8 GB",
+        "gpu": "GTX 960"
+      },
+      "recommended": {
+        "cpu": "Core i5-6600K",
+        "ram": "12 GB",
+        "gpu": "GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Battle.net",
+      "rating_percentage": 60,
+      "count": 100000
+    },
+    "playtime": {
+      "main_story": "8 hours",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Battle.net (Online-Only)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "overwatch-2",
+    "title": "Overwatch 2",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Hero Shooter",
+        "Free-to-Play"
+      ],
+      "description": "Overwatch 2 is a free-to-play, team-based action game set in an optimistic future, where every match is the ultimate 5v5 battlefield brawl."
+    },
+    "release_price": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3",
+        "ram": "6 GB",
+        "gpu": "GTX 600 series"
+      },
+      "recommended": {
+        "cpu": "Core i7",
+        "ram": "8 GB",
+        "gpu": "GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 15,
+      "count": 200000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Battle.net (Online-Only)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "the-callisto-protocol",
+    "title": "The Callisto Protocol",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Survival Horror"
+      ],
+      "description": "Survive to escape the horrors of Callisto. In this narrative-driven, third-person survival horror game set 300 years in the future, the player will take on the role of Jacob Lee."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-8400",
+        "ram": "8 GB",
+        "gpu": "GTX 1060"
+      },
+      "recommended": {
+        "cpu": "Core i7-8700",
+        "ram": "16 GB",
+        "gpu": "GTX 1070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 66,
+      "count": 30000
+    },
+    "playtime": {
+      "main_story": "10 hours",
+      "completionist": "15 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "dead-space-remake",
+    "title": "Dead Space (2023)",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Survival Horror"
+      ],
+      "description": "The sci-fi survival-horror classic Dead Space returns, completely rebuilt from the ground up to offer a deeper, more immersive experience."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Ryzen 5 2600x",
+        "ram": "16 GB",
+        "gpu": "RX 5700"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 5600X",
+        "ram": "16 GB",
+        "gpu": "RX 6700 XT"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 91,
+      "count": 40000
+    },
+    "playtime": {
+      "main_story": "12 hours",
+      "completionist": "18 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "jedi-survivor",
+    "title": "STAR WARS Jedi: Survivor",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Action-Adventure"
+      ],
+      "description": "The story of Cal Kestis continues in STAR WARS Jedi: Survivor™, a third-person, galaxy-spanning, action-adventure game."
+    },
+    "release_price": {
+      "amount": 69.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Ryzen 5 1400",
+        "ram": "8 GB",
+        "gpu": "RX 580"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 5600X",
+        "ram": "16 GB",
+        "gpu": "RX 6700 XT"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 79,
+      "count": 50000
+    },
+    "playtime": {
+      "main_story": "19 hours",
+      "completionist": "40 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "EA App"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "street-fighter-6",
+    "title": "Street Fighter 6",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Fighting"
+      ],
+      "description": "Powered by Capcom’s proprietary RE ENGINE, the Street Fighter 6 experience spans across three distinct game modes: Fighting Ground, World Tour and Battle Hub."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-7500",
+        "ram": "8 GB",
+        "gpu": "GTX 1060"
+      },
+      "recommended": {
+        "cpu": "Core i7 8700",
+        "ram": "16 GB",
+        "gpu": "RTX 2070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 88,
+      "count": 25000
+    },
+    "playtime": {
+      "main_story": "15 hours",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "remnant-2",
+    "title": "Remnant II",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Third-Person Shooter",
+        "Souls-like"
+      ],
+      "description": "Remnant II is the sequel to the best-selling game Remnant: From the Ashes that pits survivors of humanity against new deadly creatures and god-like bosses across terrifying worlds."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-6600",
+        "ram": "16 GB",
+        "gpu": "GTX 1060"
+      },
+      "recommended": {
+        "cpu": "Core i5-10600k",
+        "ram": "16 GB",
+        "gpu": "RTX 2060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 85,
+      "count": 40000
+    },
+    "playtime": {
+      "main_story": "20 hours",
+      "completionist": "50 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Epic Games",
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "armored-core-vi-fires-of-rubicon",
+    "title": "ARMORED CORE VI FIRES OF RUBICON",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Action",
+        "Mecha"
+      ],
+      "description": "A new action game based on the concept of the ARMORED CORE series that uses the knowledge gained from FromSoftware's recent action game development."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i7-4790K",
+        "ram": "12 GB",
+        "gpu": "GTX 1650"
+      },
+      "recommended": {
+        "cpu": "Core i7-7700",
+        "ram": "12 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 88,
+      "count": 45000
+    },
+    "playtime": {
+      "main_story": "15 hours",
+      "completionist": "40 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "payday-3",
+    "title": "PAYDAY 3",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Co-op",
+        "First-Person Shooter"
+      ],
+      "description": "PAYDAY 3 is the much anticipated sequel to one of the most popular co-op shooters ever. Since its release, PAYDAY-players have been reveling in the thrill of a perfectly planned and executed heist."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-9400F",
+        "ram": "16 GB",
+        "gpu": "GTX 1650"
+      },
+      "recommended": {
+        "cpu": "Core i7-9700K",
+        "ram": "16 GB",
+        "gpu": "GTX 1070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 39,
+      "count": 40000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Denuvo",
+        "Online-Only"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "mortal-kombat-1",
+    "title": "Mortal Kombat 1",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Fighting"
+      ],
+      "description": "It's In Our Blood! Discover a reborn Mortal Kombat Universe created by the Fire God Liu Kang. Mortal Kombat 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!"
+    },
+    "release_price": {
+      "amount": 69.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-6600",
+        "ram": "8 GB",
+        "gpu": "GTX 1060"
+      },
+      "recommended": {
+        "cpu": "Core i5-8400",
+        "ram": "8 GB",
+        "gpu": "GTX 1080 Ti"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 78,
+      "count": 15000
+    },
+    "playtime": {
+      "main_story": "6 hours",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "lords-of-the-fallen",
+    "title": "Lords of the Fallen",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "description": "A vast world awaits in all-new, dark fantasy action-RPG, Lords of the Fallen. As one of the fabled Dark Crusaders, embark on an epic quest to overthrow Adyr, the demon God."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5 8400",
+        "ram": "12 GB",
+        "gpu": "GTX 1060"
+      },
+      "recommended": {
+        "cpu": "Core i7 8700",
+        "ram": "16 GB",
+        "gpu": "RTX 2080"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 65,
+      "count": 20000
+    },
+    "playtime": {
+      "main_story": "28 hours",
+      "completionist": "50 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "cities-skylines-ii",
+    "title": "Cities: Skylines II",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "City Builder",
+        "Simulation"
+      ],
+      "description": "Raise a city from the ground up and transform it into the thriving metropolis only you can imagine. This is a world builder without limits."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i7-6700K",
+        "ram": "8 GB",
+        "gpu": "GTX 970"
+      },
+      "recommended": {
+        "cpu": "Core i5-12600K",
+        "ram": "16 GB",
+        "gpu": "RTX 3080"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 57,
+      "count": 35000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "the-talos-principle-2",
+    "title": "The Talos Principle 2",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Puzzle"
+      ],
+      "description": "The Talos Principle 2 is a thought-provoking first-person puzzle experience that greatly expands on the first game's philosophical themes and stunning environments with increasingly mind-bending challenges."
+    },
+    "release_price": {
+      "amount": 28.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "4-core CPU @ 2.5 GHz",
+        "ram": "8 GB",
+        "gpu": "GTX 970"
+      },
+      "recommended": {
+        "cpu": "6-core CPU @ 3.5 GHz",
+        "ram": "8 GB",
+        "gpu": "RTX 2070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 95,
+      "count": 10000
+    },
+    "playtime": {
+      "main_story": "20 hours",
+      "completionist": "35 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "like-a-dragon-gaiden-the-man-who-erased-his-name",
+    "title": "Like a Dragon Gaiden: The Man Who Erased His Name",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Beat 'em up"
+      ],
+      "description": "Erase your past to protect your future. Once a legendary yakuza, Kazuma Kiryu faked his own death and abandoned his name for the sake of protecting his family."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-3470",
+        "ram": "8 GB",
+        "gpu": "GTX 960"
+      },
+      "recommended": {
+        "cpu": "Core i7-4790",
+        "ram": "16 GB",
+        "gpu": "RTX 2060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 94,
+      "count": 10000
+    },
+    "playtime": {
+      "main_story": "12 hours",
+      "completionist": "30 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "avatar-frontiers-of-pandora",
+    "title": "Avatar: Frontiers of Pandora",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Open World"
+      ],
+      "description": "Become Na’vi and journey across the Western Frontier, a never-before-seen part of Pandora. Reconnect with your lost heritage and discover what it truly means to be Na’vi."
+    },
+    "release_price": {
+      "amount": 69.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Ryzen 5 3600",
+        "ram": "16 GB",
+        "gpu": "RX 5700"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 5600X",
+        "ram": "16 GB",
+        "gpu": "RX 6700 XT"
+      }
+    },
+    "reviews": {
+      "source": "Ubisoft Connect",
+      "rating_percentage": 78,
+      "count": 5000
+    },
+    "playtime": {
+      "main_story": "20 hours",
+      "completionist": "40 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Ubisoft Connect"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "the-finals",
+    "title": "THE FINALS",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "First-Person Shooter",
+        "Free-to-Play"
+      ],
+      "description": "Join THE FINALS, the world-famous, free-to-play, combat-centered game show! Fight alongside your teammates in virtual arenas that you can alter, exploit, and even destroy."
+    },
+    "release_price": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-6600K",
+        "ram": "12 GB",
+        "gpu": "GTX 1050 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i5-9600K",
+        "ram": "16 GB",
+        "gpu": "RTX 2070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 77,
+      "count": 150000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Easy Anti-Cheat"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "ready-or-not",
+    "title": "Ready or Not",
+    "release_year": 2023,
+    "info": {
+      "genre": [
+        "Tactical Shooter"
+      ],
+      "description": "Ready or Not is an intense, tactical, first-person shooter that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4430",
+        "ram": "8 GB",
+        "gpu": "GTX 960 2GB"
+      },
+      "recommended": {
+        "cpu": "Core i5-7600K",
+        "ram": "16 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 90,
+      "count": 130000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "like-a-dragon-infinite-wealth",
+    "title": "Like a Dragon: Infinite Wealth",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "JRPG",
+        "Turn-Based"
+      ],
+      "description": "Two larger-than-life heroes brought together by the hand of fate, or perhaps something more sinister… Ichiban Kasuga and Kazuma Kiryu are dragged into an adventure in Hawaii."
+    },
+    "release_price": {
+      "amount": 69.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-3470",
+        "ram": "8 GB",
+        "gpu": "GTX 960"
+      },
+      "recommended": {
+        "cpu": "Core i7-4790",
+        "ram": "16 GB",
+        "gpu": "RTX 2060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 93,
+      "count": 15000
+    },
+    "playtime": {
+      "main_story": "55 hours",
+      "completionist": "110 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "tekken-8",
+    "title": "TEKKEN 8",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Fighting"
+      ],
+      "description": "Get ready for the next chapter in the legendary fighting game franchise, TEKKEN 8."
+    },
+    "release_price": {
+      "amount": 69.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-6600K",
+        "ram": "8 GB",
+        "gpu": "GTX 1050Ti"
+      },
+      "recommended": {
+        "cpu": "Core i7-7700K",
+        "ram": "16 GB",
+        "gpu": "RTX 2070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 89,
+      "count": 20000
+    },
+    "playtime": {
+      "main_story": "4 hours",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "suicide-squad-kill-the-justice-league",
+    "title": "Suicide Squad: Kill the Justice League",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Action",
+        "Looter Shooter"
+      ],
+      "description": "From the creators of Batman: Arkham, Suicide Squad: Kill the Justice League is a genre-defying third-person action shooter where the ultimate band of misfits must do the impossible: Kill the Justice League."
+    },
+    "release_price": {
+      "amount": 69.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-8400",
+        "ram": "16 GB",
+        "gpu": "GTX 1070"
+      },
+      "recommended": {
+        "cpu": "Core i7-10700K",
+        "ram": "16 GB",
+        "gpu": "RTX 2080"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 45,
+      "count": 10000
+    },
+    "playtime": {
+      "main_story": "10 hours",
+      "completionist": "30 hours"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Denuvo",
+        "Online-Only"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "granblue-fantasy-relink",
+    "title": "Granblue Fantasy: Relink",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "JRPG"
+      ],
+      "description": "A grand adventure in the skies awaits! Form a party of four from a diverse roster of skyfarers and slash, cast, or shoot your way to victory against treacherous foes in this action RPG."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-9100",
+        "ram": "16 GB",
+        "gpu": "GTX 1060 6GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-8700",
+        "ram": "16 GB",
+        "gpu": "RTX 2080"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 92,
+      "count": 30000
+    },
+    "playtime": {
+      "main_story": "15 hours",
+      "completionist": "80 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "skull-and-bones",
+    "title": "Skull and Bones",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Action",
+        "Naval Combat"
+      ],
+      "description": "Enter the perilous paradise of Skull and Bones, as you rise from an outcast to an infamous pirate."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i7-4790",
+        "ram": "8 GB",
+        "gpu": "GTX 1060 6GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-8700K",
+        "ram": "16 GB",
+        "gpu": "RTX 2070 8GB"
+      }
+    },
+    "reviews": {
+      "source": "Ubisoft Connect",
+      "rating_percentage": 60,
+      "count": 5000
+    },
+    "playtime": {
+      "main_story": "25 hours",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Denuvo",
+        "BattleEye",
+        "Online-Only"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "pacific-drive",
+    "title": "Pacific Drive",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Survival",
+        "Driving",
+        "Indie"
+      ],
+      "description": "Face the supernatural dangers of the Olympic Exclusion Zone with your car as your only lifeline in this first-person driving survival adventure."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-8600",
+        "ram": "16 GB",
+        "gpu": "GTX 1060 6GB"
+      },
+      "recommended": {
+        "cpu": "Core i5-10600K",
+        "ram": "16 GB",
+        "gpu": "RTX 2080"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 84,
+      "count": 10000
+    },
+    "playtime": {
+      "main_story": "20 hours",
+      "completionist": "40 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "the-outlast-trials",
+    "title": "The Outlast Trials",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Horror",
+        "Co-op"
+      ],
+      "description": "Red Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave."
+    },
+    "release_price": {
+      "amount": 38.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i7-3770",
+        "ram": "8 GB",
+        "gpu": "GTX 650 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i7-6700K",
+        "ram": "16 GB",
+        "gpu": "GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 93,
+      "count": 50000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Online-Fix"
+    }
+  },
+  {
+    "id": "satisfactory",
+    "title": "Satisfactory",
+    "release_year": 2024,
+    "info": {
+      "genre": [
+        "Factory Simulation",
+        "Open World",
+        "Indie"
+      ],
+      "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!"
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-3570",
+        "ram": "8 GB",
+        "gpu": "GTX 770 2GB"
+      },
+      "recommended": {
+        "cpu": "Core i5-5690",
+        "ram": "16 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 120000
+    },
+    "playtime": {
+      "main_story": "100 hours",
+      "completionist": "300+ hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "subnautica",
+    "title": "Subnautica",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "Survival",
+        "Open World",
+        "Indie"
+      ],
+      "description": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more."
+    },
+    "release_price": {
+      "amount": 24.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3",
+        "ram": "4 GB",
+        "gpu": "Intel HD 4600"
+      },
+      "recommended": {
+        "cpu": "Core i5",
+        "ram": "8 GB",
+        "gpu": "GTX 550 Ti"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 240000
+    },
+    "playtime": {
+      "main_story": "29 hours",
+      "completionist": "55 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "grand-theft-auto-v",
+    "title": "Grand Theft Auto V",
+    "release_year": 2015,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Open World"
+      ],
+      "description": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Quad Q6600",
+        "ram": "4 GB",
+        "gpu": "NVIDIA 9800 GT 1GB"
+      },
+      "recommended": {
+        "cpu": "Core i5 3470",
+        "ram": "8 GB",
+        "gpu": "NVIDIA GTX 660 2GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 86,
+      "count": 1500000
+    },
+    "playtime": {
+      "main_story": "32 hours",
+      "completionist": "80 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Rockstar Social Club"
+      ],
+      "cracked_by": "RELOADED"
+    }
+  },
+  {
+    "id": "the-elder-scrolls-v-skyrim",
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "release_year": 2016,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "description": "Winner of more than 200 Game of the Year Awards, Skyrim Special Edition brings the epic fantasy to life in stunning detail."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-760",
+        "ram": "8 GB",
+        "gpu": "NVIDIA GTX 470 1GB"
+      },
+      "recommended": {
+        "cpu": "Core i5-2400",
+        "ram": "8 GB",
+        "gpu": "NVIDIA GTX 780 3GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 94,
+      "count": 400000
+    },
+    "playtime": {
+      "main_story": "26 hours",
+      "completionist": "230 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "fallout-4",
+    "title": "Fallout 4",
+    "release_year": 2015,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "description": "As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the fate of the Wasteland."
+    },
+    "release_price": {
+      "amount": 19.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-2300",
+        "ram": "8 GB",
+        "gpu": "NVIDIA GTX 550 Ti 2GB"
+      },
+      "recommended": {
+        "cpu": "Core i7 4790",
+        "ram": "8 GB",
+        "gpu": "NVIDIA GTX 780 3GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 82,
+      "count": 250000
+    },
+    "playtime": {
+      "main_story": "27 hours",
+      "completionist": "155 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "left-4-dead-2",
+    "title": "Left 4 Dead 2",
+    "release_year": 2009,
+    "info": {
+      "genre": [
+        "Co-op",
+        "First-Person Shooter",
+        "Zombies"
+      ],
+      "description": "Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008."
+    },
+    "release_price": {
+      "amount": 8.19,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Pentium 4 3.0GHz",
+        "ram": "2 GB",
+        "gpu": "128MB, Shader model 2.0"
+      },
+      "recommended": {
+        "cpu": "Core 2 Duo 2.4GHz",
+        "ram": "2 GB",
+        "gpu": "Shader model 3.0, 512MB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 700000
+    },
+    "playtime": {
+      "main_story": "10 hours",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "the-binding-of-isaac-rebirth",
+    "title": "The Binding of Isaac: Rebirth",
+    "release_year": 2014,
+    "info": {
+      "genre": [
+        "Roguelike",
+        "Indie"
+      ],
+      "description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities."
+    },
+    "release_price": {
+      "amount": 14.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo",
+        "ram": "2 GB",
+        "gpu": "Discreet video card"
+      },
+      "recommended": {
+        "cpu": "Quad Core",
+        "ram": "4 GB",
+        "gpu": "Discreet video card"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 150000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "400+ hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "dead-cells",
+    "title": "Dead Cells",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "Roguelike",
+        "Metroidvania",
+        "Indie"
+      ],
+      "description": "Dead Cells is a rogue-lite, metroidvania inspired, action-platformer. You'll explore a sprawling, ever-changing castle... assuming you’re able to fight your way past its keepers in 2D souls-lite combat."
+    },
+    "release_price": {
+      "amount": 24.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5",
+        "ram": "2 GB",
+        "gpu": "Nvidia 450 GTS"
+      },
+      "recommended": {
+        "cpu": "Core i5",
+        "ram": "4 GB",
+        "gpu": "Nvidia GTX 460"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 120000
+    },
+    "playtime": {
+      "main_story": "15 hours",
+      "completionist": "90 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "cuphead",
+    "title": "Cuphead",
+    "release_year": 2017,
+    "info": {
+      "genre": [
+        "Run and Gun",
+        "Indie"
+      ],
+      "description": "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era."
+    },
+    "release_price": {
+      "amount": 19.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo E8400",
+        "ram": "3 GB",
+        "gpu": "2GB VRAM"
+      },
+      "recommended": {
+        "cpu": "Core i5",
+        "ram": "4 GB",
+        "gpu": "2GB VRAM"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 96,
+      "count": 130000
+    },
+    "playtime": {
+      "main_story": "10 hours",
+      "completionist": "14 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "celeste",
+    "title": "Celeste",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "Platformer",
+        "Indie"
+      ],
+      "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight, hand-crafted platformer from the creators of TowerFall."
+    },
+    "release_price": {
+      "amount": 19.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3 M380",
+        "ram": "2 GB",
+        "gpu": "Intel HD 4000"
+      },
+      "recommended": {
+        "cpu": "Core i3 M380",
+        "ram": "2 GB",
+        "gpu": "Intel HD 4000"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 80000
+    },
+    "playtime": {
+      "main_story": "8 hours",
+      "completionist": "30 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "ori-and-the-will-of-the-wisps",
+    "title": "Ori and the Will of the Wisps",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Metroidvania",
+        "Platformer"
+      ],
+      "description": "Embark on an all-new adventure in a vast, exotic world where you’ll encounter towering enemies and challenging puzzles on your quest to unravel Ori’s destiny."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4460",
+        "ram": "8 GB",
+        "gpu": "GTX 950"
+      },
+      "recommended": {
+        "cpu": "Core i5-6500",
+        "ram": "8 GB",
+        "gpu": "GTX 970"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 96,
+      "count": 60000
+    },
+    "playtime": {
+      "main_story": "12 hours",
+      "completionist": "18 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "HOODLUM"
+    }
+  },
+  {
+    "id": "monster-hunter-world",
+    "title": "Monster Hunter: World",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "Action RPG"
+      ],
+      "description": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4460",
+        "ram": "8 GB",
+        "gpu": "GTX 760"
+      },
+      "recommended": {
+        "cpu": "Core i7 3770",
+        "ram": "8 GB",
+        "gpu": "GTX 1060 3GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 87,
+      "count": 250000
+    },
+    "playtime": {
+      "main_story": "48 hours",
+      "completionist": "400+ hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo (Removed)",
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "monster-hunter-rise",
+    "title": "Monster Hunter Rise",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Action RPG"
+      ],
+      "description": "Rise to the challenge and join the hunt! In Monster Hunter Rise, the latest installment in the award-winning and top-selling Monster Hunter series, you’ll become a hunter, explore brand new maps and use a variety of weapons to take down fearsome monsters."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-4130",
+        "ram": "8 GB",
+        "gpu": "GTX 1050 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i5-4460",
+        "ram": "8 GB",
+        "gpu": "GTX 1060 3GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 86,
+      "count": 100000
+    },
+    "playtime": {
+      "main_story": "22 hours",
+      "completionist": "200 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "nier-automata",
+    "title": "NieR:Automata",
+    "release_year": 2017,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Hack and Slash"
+      ],
+      "description": "NieR: Automata tells the story of androids 2B, 9S and A2 and their battle to reclaim the machine-driven dystopia overrun by powerful machines."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3 2100",
+        "ram": "4 GB",
+        "gpu": "GTX 770"
+      },
+      "recommended": {
+        "cpu": "Core i5 4670",
+        "ram": "8 GB",
+        "gpu": "GTX 980"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 89,
+      "count": 90000
+    },
+    "playtime": {
+      "main_story": "21 hours",
+      "completionist": "60 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "BALDMAN"
+    }
+  },
+  {
+    "id": "dark-souls-iii",
+    "title": "DARK SOULS III",
+    "release_year": 2016,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "description": "As fires fade and the world falls into ruin, journey into a universe filled with more colossal enemies and environments. Players will be immersed into a world of epic atmosphere and darkness through faster gameplay and amplified combat intensity."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-2100",
+        "ram": "4 GB",
+        "gpu": "GTX 750 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i7-3770",
+        "ram": "8 GB",
+        "gpu": "GTX 970"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 94,
+      "count": 300000
+    },
+    "playtime": {
+      "main_story": "32 hours",
+      "completionist": "89 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "xcom-2",
+    "title": "XCOM 2",
+    "release_year": 2016,
+    "info": {
+      "genre": [
+        "Turn-Based Strategy"
+      ],
+      "description": "XCOM 2 is the sequel to XCOM: Enemy Unknown, the 2012 award-winning strategy game of the year. Earth has changed. Twenty years have passed since world leaders offered an unconditional surrender to alien forces."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo E4700",
+        "ram": "4 GB",
+        "gpu": "GTX 460"
+      },
+      "recommended": {
+        "cpu": "Quad Core 3GHz",
+        "ram": "8 GB",
+        "gpu": "GTX 770 2GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 84,
+      "count": 60000
+    },
+    "playtime": {
+      "main_story": "33 hours",
+      "completionist": "70 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "divinity-original-sin-2",
+    "title": "Divinity: Original Sin 2 - Definitive Edition",
+    "release_year": 2017,
+    "info": {
+      "genre": [
+        "CRPG",
+        "Turn-Based"
+      ],
+      "description": "The critically acclaimed RPG that raised the bar, from the creators of Baldur's Gate 3. Gather your party. Master deep, tactical combat. Join up to 3 other players - but know that only one of you will have the chance to become a God."
+    },
+    "release_price": {
+      "amount": 44.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5",
+        "ram": "4 GB",
+        "gpu": "GTX 550"
+      },
+      "recommended": {
+        "cpu": "Core i7",
+        "ram": "8 GB",
+        "gpu": "GTX 770"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 95,
+      "count": 150000
+    },
+    "playtime": {
+      "main_story": "60 hours",
+      "completionist": "150 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "path-of-exile",
+    "title": "Path of Exile",
+    "release_year": 2013,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Hack and Slash",
+        "Free-to-Play"
+      ],
+      "description": "You are an Exile, struggling to survive on the dark continent of Wraeclast, as you fight to earn power that will allow you to exact your revenge against those who wronged you."
+    },
+    "release_price": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "x86-compatible 2.6GHz",
+        "ram": "4 GB",
+        "gpu": "512MB VRAM"
+      },
+      "recommended": {
+        "cpu": "x64-compatible 3.2GHz",
+        "ram": "8 GB",
+        "gpu": "2GB VRAM"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 88,
+      "count": 200000
+    },
+    "playtime": {
+      "main_story": "40 hours",
+      "completionist": "500+ hours"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Online-Only"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "warframe",
+    "title": "Warframe",
+    "release_year": 2013,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Looter Shooter",
+        "Free-to-Play"
+      ],
+      "description": "Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game."
+    },
+    "release_price": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo E6400",
+        "ram": "4 GB",
+        "gpu": "DirectX 11+ compatible"
+      },
+      "recommended": {
+        "cpu": "Core i7",
+        "ram": "8 GB",
+        "gpu": "DirectX 11+ compatible"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 86,
+      "count": 550000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "500+ hours"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Online-Only"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "apex-legends",
+    "title": "Apex Legends",
+    "release_year": 2019,
+    "info": {
+      "genre": [
+        "Battle Royale",
+        "Hero Shooter",
+        "Free-to-Play"
+      ],
+      "description": "Conquer with character in Apex Legends, a free-to-play Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier."
+    },
+    "release_price": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "AMD FX 4350",
+        "ram": "6 GB",
+        "gpu": "GeForce GT 640"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 CPU",
+        "ram": "8 GB",
+        "gpu": "GeForce GTX 970"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 80,
+      "count": 700000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Easy Anti-Cheat",
+        "Online-Only"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "fortnite",
+    "title": "Fortnite",
+    "release_year": 2017,
+    "info": {
+      "genre": [
+        "Battle Royale",
+        "Sandbox",
+        "Free-to-Play"
+      ],
+      "description": "Fortnite is the free, always evolving, multiplayer game where you and your friends battle to be the last one standing or collaborate to create your dream world."
+    },
+    "release_price": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-3225",
+        "ram": "8 GB",
+        "gpu": "Intel HD 4000"
+      },
+      "recommended": {
+        "cpu": "Core i5-7300U",
+        "ram": "16 GB",
+        "gpu": "Nvidia GTX 960"
+      }
+    },
+    "reviews": {
+      "source": "Epic Games",
+      "rating_percentage": 85,
+      "count": 5000000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "BattleEye",
+        "Easy Anti-Cheat",
+        "Online-Only"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "bioshock-infinite",
+    "title": "BioShock Infinite",
+    "release_year": 2013,
+    "info": {
+      "genre": [
+        "First-Person Shooter",
+        "Action-Adventure"
+      ],
+      "description": "Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo 2.4 GHz",
+        "ram": "2 GB",
+        "gpu": "ATI Radeon HD 3870"
+      },
+      "recommended": {
+        "cpu": "Quad Core Processor",
+        "ram": "4 GB",
+        "gpu": "Radeon HD 6950"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 93,
+      "count": 80000
+    },
+    "playtime": {
+      "main_story": "12 hours",
+      "completionist": "27 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "FLT"
+    }
+  },
+  {
+    "id": "dishonored",
+    "title": "Dishonored",
+    "release_year": 2012,
+    "info": {
+      "genre": [
+        "Stealth",
+        "Action-Adventure"
+      ],
+      "description": "Dishonored is an immersive first-person action game that casts you as a supernatural assassin driven by revenge. Creatively eliminate your targets with the flexible combat system as you combine supernatural abilities, weapons and an arsenal of unusual gadgets."
+    },
+    "release_price": {
+      "amount": 9.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "3.0 GHz dual core",
+        "ram": "3 GB",
+        "gpu": "GeForce GTX 460"
+      },
+      "recommended": {
+        "cpu": "2.4 GHz quad core",
+        "ram": "4 GB",
+        "gpu": "GeForce GTX 460"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 60000
+    },
+    "playtime": {
+      "main_story": "12 hours",
+      "completionist": "35 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "PROPHET"
+    }
+  },
+  {
+    "id": "prey-2017",
+    "title": "Prey",
+    "release_year": 2017,
+    "info": {
+      "genre": [
+        "Immersive Sim",
+        "First-Person Shooter"
+      ],
+      "description": "In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever – but things have gone terribly wrong."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-2400",
+        "ram": "8 GB",
+        "gpu": "GTX 660 2GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-2600K",
+        "ram": "16 GB",
+        "gpu": "GTX 970 4GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 90,
+      "count": 40000
+    },
+    "playtime": {
+      "main_story": "16 hours",
+      "completionist": "45 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo (Removed)",
+        "Steam"
+      ],
+      "cracked_by": "CPY"
+    }
+  },
+  {
+    "id": "titanfall-2",
+    "title": "Titanfall 2",
+    "release_year": 2016,
+    "info": {
+      "genre": [
+        "First-Person Shooter"
+      ],
+      "description": "Call down your Titan and get ready for an exhilarating first-person shooter experience in Titanfall® 2! The sequel introduces a new single player campaign that explores the bond between Pilot and Titan."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-6300t",
+        "ram": "8 GB",
+        "gpu": "GeForce GTX 660 2GB"
+      },
+      "recommended": {
+        "cpu": "Core i5-6600",
+        "ram": "16 GB",
+        "gpu": "GeForce GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 94,
+      "count": 160000
+    },
+    "playtime": {
+      "main_story": "6 hours",
+      "completionist": "12 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Origin"
+      ],
+      "cracked_by": "CPY"
+    }
+  },
+  {
+    "id": "mass-effect-legendary-edition",
+    "title": "Mass Effect Legendary Edition",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Sci-Fi"
+      ],
+      "description": "One person is all that stands between humanity and the greatest threat it’s ever faced. Relive the legend of Commander Shepard in the highly acclaimed Mass Effect trilogy with the Mass Effect™ Legendary Edition."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5 3570",
+        "ram": "8 GB",
+        "gpu": "GTX 760"
+      },
+      "recommended": {
+        "cpu": "Core i7-7700",
+        "ram": "16 GB",
+        "gpu": "GTX 1070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 93,
+      "count": 50000
+    },
+    "playtime": {
+      "main_story": "60 hours",
+      "completionist": "120 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Origin"
+      ],
+      "cracked_by": "FLT"
+    }
+  },
+  {
+    "id": "borderlands-3",
+    "title": "Borderlands 3",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Looter Shooter",
+        "Action RPG"
+      ],
+      "description": "The original shooter-looter returns, packing bazillions of guns and an all-new mayhem-fueled adventure! Blast through new worlds and enemies as one of four brand new Vault Hunters."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "AMD FX-8350",
+        "ram": "6 GB",
+        "gpu": "Radeon HD 7970"
+      },
+      "recommended": {
+        "cpu": "AMD Ryzen 5 2600",
+        "ram": "16 GB",
+        "gpu": "Radeon RX 590"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 85,
+      "count": 110000
+    },
+    "playtime": {
+      "main_story": "23 hours",
+      "completionist": "78 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Epic Games"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "crusader-kings-iii",
+    "title": "Crusader Kings III",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Grand Strategy"
+      ],
+      "description": "Love, fight, scheme, and claim greatness. Determine your noble house’s legacy in the sprawling grand strategy of Crusader Kings III. Death is only the beginning as you guide your dynasty’s lineage in this rich and larger-than-life simulation of the Middle Ages."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-2120",
+        "ram": "6 GB",
+        "gpu": "Nvidia GTS 450"
+      },
+      "recommended": {
+        "cpu": "Core i5-4670K",
+        "ram": "8 GB",
+        "gpu": "Nvidia GTX 1650"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 92,
+      "count": 70000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "europa-universalis-iv",
+    "title": "Europa Universalis IV",
+    "release_year": 2013,
+    "info": {
+      "genre": [
+        "Grand Strategy"
+      ],
+      "description": "Paradox Development Studio is back with the fourth installment of the award-winning Europa Universalis series. This classic grand strategy game gives you control of a nation to guide through the years in order to create a dominant global empire."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo",
+        "ram": "4 GB",
+        "gpu": "NVIDIA 8800 GT"
+      },
+      "recommended": {
+        "cpu": "Core 2 Duo",
+        "ram": "8 GB",
+        "gpu": "NVIDIA 8800 GT"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 86,
+      "count": 90000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "hearts-of-iron-iv",
+    "title": "Hearts of Iron IV",
+    "release_year": 2016,
+    "info": {
+      "genre": [
+        "Grand Strategy"
+      ],
+      "description": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5 750",
+        "ram": "4 GB",
+        "gpu": "NVIDIA GTX 470"
+      },
+      "recommended": {
+        "cpu": "Core i5-2500K",
+        "ram": "6 GB",
+        "gpu": "NVIDIA GTX 570"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 91,
+      "count": 180000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "total-war-warhammer-iii",
+    "title": "Total War: WARHAMMER III",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Grand Strategy",
+        "Real-time Tactics"
+      ],
+      "description": "The cataclysmic conclusion to the Total War: WARHAMMER trilogy is here. Rally your forces and step into the Realm of Chaos, a dimension of mind-bending horror where the very fate of the world will be decided."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-6100",
+        "ram": "6 GB",
+        "gpu": "GTX 960"
+      },
+      "recommended": {
+        "cpu": "Core i5-6600",
+        "ram": "8 GB",
+        "gpu": "GeForce GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 76,
+      "count": 75000
+    },
+    "playtime": {
+      "main_story": "40 hours",
+      "completionist": "150 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "age-of-empires-iv",
+    "title": "Age of Empires IV",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "Real-time Strategy"
+      ],
+      "description": "One of the most beloved real-time strategy games returns to glory with Age of Empires IV, putting you at the center of epic historical battles that shaped the world."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-6300U",
+        "ram": "8 GB",
+        "gpu": "Intel HD 520"
+      },
+      "recommended": {
+        "cpu": "Core i5-9500",
+        "ram": "16 GB",
+        "gpu": "GTX 970"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 86,
+      "count": 50000
+    },
+    "playtime": {
+      "main_story": "20 hours",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "frostpunk",
+    "title": "Frostpunk",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "City Builder",
+        "Survival",
+        "Strategy"
+      ],
+      "description": "Frostpunk is the first society survival game. As the ruler of the last city on Earth, it is your duty to manage both its citizens and its infrastructure. What decisions will you make to ensure your society's survival?"
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Dual Core 3.2 GHz",
+        "ram": "4 GB",
+        "gpu": "GeForce GTX 660"
+      },
+      "recommended": {
+        "cpu": "Quad Core 3.2 GHz",
+        "ram": "8 GB",
+        "gpu": "GeForce 970"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 91,
+      "count": 70000
+    },
+    "playtime": {
+      "main_story": "11 hours",
+      "completionist": "30 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "inscryption",
+    "title": "Inscryption",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "Card Battler",
+        "Roguelike",
+        "Indie"
+      ],
+      "description": "Inscryption is an inky black card-based odyssey that blends the deckbuilding roguelike, escape-room style puzzles, and psychological horror into a blood-laced smoothie."
+    },
+    "release_price": {
+      "amount": 19.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-760",
+        "ram": "4 GB",
+        "gpu": "GeForce GTX 550 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i5-3470",
+        "ram": "8 GB",
+        "gpu": "GeForce GTX 1050"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 96,
+      "count": 80000
+    },
+    "playtime": {
+      "main_story": "12 hours",
+      "completionist": "20 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "slay-the-spire",
+    "title": "Slay the Spire",
+    "release_year": 2019,
+    "info": {
+      "genre": [
+        "Deckbuilder",
+        "Roguelike",
+        "Indie"
+      ],
+      "description": "We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire!"
+    },
+    "release_price": {
+      "amount": 20.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "2.0 Ghz",
+        "ram": "4 GB",
+        "gpu": "256mb VRAM"
+      },
+      "recommended": {
+        "cpu": "2.0 Ghz",
+        "ram": "4 GB",
+        "gpu": "256mb VRAM"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 120000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "150+ hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "darkest-dungeon",
+    "title": "Darkest Dungeon",
+    "release_year": 2016,
+    "info": {
+      "genre": [
+        "Turn-Based RPG",
+        "Roguelike",
+        "Indie"
+      ],
+      "description": "Darkest Dungeon is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring. Recruit, train, and lead a team of flawed heroes through twisted forests, forgotten warrens, ruined crypts, and beyond."
+    },
+    "release_price": {
+      "amount": 22.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Open GL 3.2+ Compliant",
+        "ram": "2 GB",
+        "gpu": "Open GL 3.2+ Compliant"
+      },
+      "recommended": {
+        "cpu": "Open GL 3.2+ Compliant",
+        "ram": "4 GB",
+        "gpu": "Open GL 3.2+ Compliant"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 91,
+      "count": 110000
+    },
+    "playtime": {
+      "main_story": "55 hours",
+      "completionist": "110 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "GOG (DRM-Free)"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "the-forest",
+    "title": "The Forest",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "Survival",
+        "Horror",
+        "Open World"
+      ],
+      "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants."
+    },
+    "release_price": {
+      "amount": 16.79,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo 2.4GHz",
+        "ram": "4 GB",
+        "gpu": "GeForce 8800GT"
+      },
+      "recommended": {
+        "cpu": "Quad Core Processor",
+        "ram": "4 GB",
+        "gpu": "GeForce GTX 560"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 95,
+      "count": 450000
+    },
+    "playtime": {
+      "main_story": "15 hours",
+      "completionist": "50 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "rust",
+    "title": "Rust",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "Survival",
+        "Sandbox",
+        "Multiplayer"
+      ],
+      "description": "The only aim in Rust is to survive. Everything wants you to die - the island’s wildlife and other inhabitants, the environment, other survivors. Do whatever it takes to last another night."
+    },
+    "release_price": {
+      "amount": 33.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i7-3770",
+        "ram": "10 GB",
+        "gpu": "GTX 670 2GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-4790K",
+        "ram": "16 GB",
+        "gpu": "GTX 980"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 87,
+      "count": 800000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam",
+        "Easy Anti-Cheat"
+      ],
+      "cracked_by": "Online-Fix"
+    }
+  },
+  {
+    "id": "ark-survival-evolved",
+    "title": "ARK: Survival Evolved",
+    "release_year": 2017,
+    "info": {
+      "genre": [
+        "Survival",
+        "Open World",
+        "Dinosaurs"
+      ],
+      "description": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!"
+    },
+    "release_price": {
+      "amount": 19.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-2400",
+        "ram": "8 GB",
+        "gpu": "GTX 670 2GB"
+      },
+      "recommended": {
+        "cpu": "Core i5-4670K",
+        "ram": "16 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 83,
+      "count": 500000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam",
+        "BattleEye"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "dayz",
+    "title": "DayZ",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "Survival",
+        "Zombies",
+        "Multiplayer"
+      ],
+      "description": "How long can you survive a post-apocalyptic world? A land overrun with infected 'zombies', where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal?"
+    },
+    "release_price": {
+      "amount": 44.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4430",
+        "ram": "8 GB",
+        "gpu": "GeForce GTX 760"
+      },
+      "recommended": {
+        "cpu": "Core i5-6600K",
+        "ram": "12 GB",
+        "gpu": "GeForce GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 80,
+      "count": 300000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam",
+        "BattleEye"
+      ],
+      "cracked_by": "Online-Fix"
+    }
+  },
+  {
+    "id": "escape-from-tarkov",
+    "title": "Escape from Tarkov",
+    "release_year": 2017,
+    "info": {
+      "genre": [
+        "Tactical Shooter",
+        "Extraction"
+      ],
+      "description": "Escape from Tarkov is a hardcore and realistic online first-person action RPG/Simulator with MMO features and a story-driven walkthrough."
+    },
+    "release_price": {
+      "amount": 44.99,
+      "currency": "USD"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo 2.4GHz",
+        "ram": "8 GB",
+        "gpu": "DX11 compatible with 1 GB VRAM"
+      },
+      "recommended": {
+        "cpu": "Core i5/i7 3.2GHz",
+        "ram": "12 GB",
+        "gpu": "DX11 compatible with 2 GB+ VRAM"
+      }
+    },
+    "reviews": {
+      "source": "Official",
+      "rating_percentage": 80,
+      "count": 100000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "BattleEye",
+        "Online-Only"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "squad",
+    "title": "Squad",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Tactical Shooter",
+        "Military Sim"
+      ],
+      "description": "Squad is a large-scale combined arms multiplayer first-person shooter emphasizing combat realism through communication, teamplay, and strong squad cohesion mechanics."
+    },
+    "release_price": {
+      "amount": 44.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4460",
+        "ram": "8 GB",
+        "gpu": "GeForce GTX 770"
+      },
+      "recommended": {
+        "cpu": "Core i7-4790K",
+        "ram": "16 GB",
+        "gpu": "GeForce GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 83,
+      "count": 120000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Easy Anti-Cheat"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "hell-let-loose",
+    "title": "Hell Let Loose",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "Tactical Shooter",
+        "Military Sim",
+        "WWII"
+      ],
+      "description": "Join the ever-expanding experience of Hell Let Loose - a hardcore World War Two first person shooter with epic battles of 100 players with infantry, tanks, artillery, a dynamically shifting front line and a unique resource-based RTS-inspired meta-game."
+    },
+    "release_price": {
+      "amount": 44.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-6600",
+        "ram": "12 GB",
+        "gpu": "GTX 960"
+      },
+      "recommended": {
+        "cpu": "Core i5-8400",
+        "ram": "16 GB",
+        "gpu": "GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 85,
+      "count": 70000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Easy Anti-Cheat"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "tom-clancys-rainbow-six-siege",
+    "title": "Tom Clancy's Rainbow Six Siege",
+    "release_year": 2015,
+    "info": {
+      "genre": [
+        "Tactical Shooter",
+        "Multiplayer"
+      ],
+      "description": "Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph. It features 5v5 attack vs. defense gameplay, and intense close-quarters combat in destructible environments."
+    },
+    "release_price": {
+      "amount": 19.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3 560",
+        "ram": "6 GB",
+        "gpu": "GTX 460"
+      },
+      "recommended": {
+        "cpu": "Core i5-2500K",
+        "ram": "8 GB",
+        "gpu": "GTX 670"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 86,
+      "count": 1000000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "BattleEye",
+        "Online-Only"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "battlefield-2042",
+    "title": "Battlefield 2042",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "First-Person Shooter",
+        "Multiplayer"
+      ],
+      "description": "Battlefield™ 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise. In a near-future world transformed by disorder, adapt and overcome dynamically-changing battlegrounds with the help of your squad and a cutting-edge arsenal."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5 6600K",
+        "ram": "8 GB",
+        "gpu": "GTX 1050 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i7 4790",
+        "ram": "16 GB",
+        "gpu": "RTX 3060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 40,
+      "count": 150000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": false,
+      "drm": [
+        "Easy Anti-Cheat",
+        "Online-Only"
+      ],
+      "cracked_by": null
+    }
+  },
+  {
+    "id": "the-sims-4",
+    "title": "The Sims 4",
+    "release_year": 2014,
+    "info": {
+      "genre": [
+        "Life Simulation",
+        "Free-to-Play"
+      ],
+      "description": "Unleash your imagination and create a unique world of Sims that’s an expression of you! Explore and customize every detail from Sims to homes, and much more."
+    },
+    "release_price": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core 2 Duo 1.8 GHz",
+        "ram": "4 GB",
+        "gpu": "128 MB VRAM"
+      },
+      "recommended": {
+        "cpu": "Core i5",
+        "ram": "8 GB",
+        "gpu": "GTX 650"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 87,
+      "count": 120000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "EA App"
+      ],
+      "cracked_by": "ANADIUS"
+    }
+  },
+  {
+    "id": "planet-zoo",
+    "title": "Planet Zoo",
+    "release_year": 2019,
+    "info": {
+      "genre": [
+        "Simulation",
+        "Management"
+      ],
+      "description": "Build a world for wildlife in Planet Zoo. From the developers of Planet Coaster and Zoo Tycoon comes the ultimate zoo sim. Construct detailed habitats, manage your zoo, and meet authentic living animals who think, feel and explore the world you create around them."
+    },
+    "release_price": {
+      "amount": 44.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-2500",
+        "ram": "8 GB",
+        "gpu": "GTX 770"
+      },
+      "recommended": {
+        "cpu": "Core i7-4770k",
+        "ram": "16 GB",
+        "gpu": "GTX 1070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 90,
+      "count": 60000
+    },
+    "playtime": {
+      "main_story": "30 hours",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "jurassic-world-evolution-2",
+    "title": "Jurassic World Evolution 2",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "Simulation",
+        "Management"
+      ],
+      "description": "Jurassic World Evolution 2 is the much-anticipated sequel to Frontier’s highly successful Jurassic World Evolution, building upon the groundbreaking and immersive 2018 management simulation."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4590",
+        "ram": "8 GB",
+        "gpu": "GTX 1050 Ti"
+      },
+      "recommended": {
+        "cpu": "Core i7-5775C",
+        "ram": "12 GB",
+        "gpu": "GTX 1070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 88,
+      "count": 25000
+    },
+    "playtime": {
+      "main_story": "15 hours",
+      "completionist": "70 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "oxygen-not-included",
+    "title": "Oxygen Not Included",
+    "release_year": 2019,
+    "info": {
+      "genre": [
+        "Colony Sim",
+        "Survival",
+        "Indie"
+      ],
+      "description": "Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock, your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and possibly, thrive."
+    },
+    "release_price": {
+      "amount": 22.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Dual Core 2 GHz",
+        "ram": "4 GB",
+        "gpu": "Intel HD 4600"
+      },
+      "recommended": {
+        "cpu": "Dual Core 2 GHz",
+        "ram": "4 GB",
+        "gpu": "Intel HD 4600"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 96,
+      "count": 90000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "dont-starve-together",
+    "title": "Don't Starve Together",
+    "release_year": 2016,
+    "info": {
+      "genre": [
+        "Survival",
+        "Co-op",
+        "Indie"
+      ],
+      "description": "Fight, Farm, Build and Explore Together in the standalone multiplayer expansion to the uncompromising wilderness survival game, Don't Starve."
+    },
+    "release_price": {
+      "amount": 14.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "1.7+ GHz",
+        "ram": "1 GB",
+        "gpu": "Radeon HD5450"
+      },
+      "recommended": {
+        "cpu": "1.7+ GHz",
+        "ram": "1 GB",
+        "gpu": "Radeon HD5450"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 96,
+      "count": 350000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Online-Fix"
+    }
+  },
+  {
+    "id": "subnautica-below-zero",
+    "title": "Subnautica: Below Zero",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "Survival",
+        "Open World",
+        "Indie"
+      ],
+      "description": "Dive into a freezing underwater adventure on an alien planet. Below Zero is set two years after the original Subnautica. Return to Planet 4546B to uncover the truth behind a deadly cover-up."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-4340",
+        "ram": "8 GB",
+        "gpu": "Intel HD 4600"
+      },
+      "recommended": {
+        "cpu": "Core i5-4690K",
+        "ram": "8 GB",
+        "gpu": "GTX 1050 Ti"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 91,
+      "count": 80000
+    },
+    "playtime": {
+      "main_story": "14 hours",
+      "completionist": "25 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "green-hell",
+    "title": "Green Hell",
+    "release_year": 2019,
+    "info": {
+      "genre": [
+        "Survival",
+        "Open World",
+        "Indie"
+      ],
+      "description": "Plunge into the open world survival simulation set in the extreme conditions of the uncharted Amazon jungle. Use real-life survival techniques to craft, hunt, fight and gather resources, set a makeshift shelter or raise a fortress."
+    },
+    "release_price": {
+      "amount": 20.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "3.2 GHz Dual Core",
+        "ram": "4 GB",
+        "gpu": "GTX 660"
+      },
+      "recommended": {
+        "cpu": "3.2 GHz Dual Core",
+        "ram": "8 GB",
+        "gpu": "GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 87,
+      "count": 50000
+    },
+    "playtime": {
+      "main_story": "18 hours",
+      "completionist": "40 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "the-long-dark",
+    "title": "The Long Dark",
+    "release_year": 2017,
+    "info": {
+      "genre": [
+        "Survival",
+        "Exploration",
+        "Indie"
+      ],
+      "description": "The Long Dark is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster."
+    },
+    "release_price": {
+      "amount": 34.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5",
+        "ram": "4 GB",
+        "gpu": "Intel HD 4xxx Series"
+      },
+      "recommended": {
+        "cpu": "Core i7",
+        "ram": "8 GB",
+        "gpu": "GTX 555"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 92,
+      "count": 90000
+    },
+    "playtime": {
+      "main_story": "30 hours",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "metro-exodus",
+    "title": "Metro Exodus",
+    "release_year": 2019,
+    "info": {
+      "genre": [
+        "First-Person Shooter",
+        "Survival Horror"
+      ],
+      "description": "Flee the shattered ruins of the Moscow Metro and embark on an epic, continent-spanning journey across the post-apocalyptic Russian wilderness. Explore vast, non-linear levels, lose yourself in an immersive, sandbox survival experience, and follow a thrilling story-line that spans an entire year."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4440",
+        "ram": "8 GB",
+        "gpu": "GTX 670"
+      },
+      "recommended": {
+        "cpu": "Core i7-4770k",
+        "ram": "8 GB",
+        "gpu": "GTX 1070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 89,
+      "count": 80000
+    },
+    "playtime": {
+      "main_story": "15 hours",
+      "completionist": "35 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo (Removed)",
+        "Steam"
+      ],
+      "cracked_by": "CPY"
+    }
+  },
+  {
+    "id": "wolfenstein-ii-the-new-colossus",
+    "title": "Wolfenstein II: The New Colossus",
+    "release_year": 2017,
+    "info": {
+      "genre": [
+        "First-Person Shooter"
+      ],
+      "description": "Wolfenstein® II: The New Colossus™ is the highly anticipated sequel to the critically acclaimed first-person shooter, Wolfenstein®: The New Order™. An exhilarating adventure brought to life by the industry-leading id Tech® 6, Wolfenstein® II sends players to Nazi-controlled America on a mission to recruit the boldest resistance leaders left."
+    },
+    "release_price": {
+      "amount": 39.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i7-3770",
+        "ram": "8 GB",
+        "gpu": "GTX 770 4GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-4770",
+        "ram": "16 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 80,
+      "count": 30000
+    },
+    "playtime": {
+      "main_story": "8 hours",
+      "completionist": "18 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo (Removed)",
+        "Steam"
+      ],
+      "cracked_by": "CODEX"
+    }
+  },
+  {
+    "id": "hitman-3",
+    "title": "HITMAN 3",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "Stealth",
+        "Action"
+      ],
+      "description": "Death Awaits. Agent 47 returns in HITMAN 3, the dramatic conclusion to the World of Assassination trilogy."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-2500K",
+        "ram": "8 GB",
+        "gpu": "GTX 660"
+      },
+      "recommended": {
+        "cpu": "Core i7 4790",
+        "ram": "16 GB",
+        "gpu": "GTX 1070"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 90,
+      "count": 35000
+    },
+    "playtime": {
+      "main_story": "9 hours",
+      "completionist": "100+ hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Epic Games"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "metal-gear-solid-v-the-phantom-pain",
+    "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+    "release_year": 2015,
+    "info": {
+      "genre": [
+        "Stealth",
+        "Action-Adventure",
+        "Open World"
+      ],
+      "description": "Ushering in a new era for the METAL GEAR franchise with cutting-edge technology powered by the Fox Engine, MGSV: The Phantom Pain will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions."
+    },
+    "release_price": {
+      "amount": 19.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4460",
+        "ram": "4 GB",
+        "gpu": "GeForce GTX 650"
+      },
+      "recommended": {
+        "cpu": "Core i7-4790",
+        "ram": "8 GB",
+        "gpu": "GeForce GTX 760"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 91,
+      "count": 60000
+    },
+    "playtime": {
+      "main_story": "46 hours",
+      "completionist": "160 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "CPY"
+    }
+  },
+  {
+    "id": "shadow-of-the-tomb-raider",
+    "title": "Shadow of the Tomb Raider",
+    "release_year": 2018,
+    "info": {
+      "genre": [
+        "Action-Adventure"
+      ],
+      "description": "As Lara Croft races to save the world from a Maya apocalypse, she must become the Tomb Raider she is destined to be."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-3220",
+        "ram": "8 GB",
+        "gpu": "GTX 660"
+      },
+      "recommended": {
+        "cpu": "Core i7 4770K",
+        "ram": "16 GB",
+        "gpu": "GTX 1060 6GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 86,
+      "count": 45000
+    },
+    "playtime": {
+      "main_story": "13 hours",
+      "completionist": "30 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "CPY"
+    }
+  },
+  {
+    "id": "deus-ex-mankind-divided",
+    "title": "Deus Ex: Mankind Divided",
+    "release_year": 2016,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Immersive Sim",
+        "Stealth"
+      ],
+      "description": "The year is 2029, and mechanically augmented humans have now been deemed outcasts, living a life of complete and total segregation from the rest of society. Now an experienced covert operative, Adam Jensen is forced to operate in a world that has grown to despise his kind."
+    },
+    "release_price": {
+      "amount": 29.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-2100",
+        "ram": "8 GB",
+        "gpu": "Radeon HD 7870"
+      },
+      "recommended": {
+        "cpu": "Core i7-3770K",
+        "ram": "16 GB",
+        "gpu": "GTX 970"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 73,
+      "count": 30000
+    },
+    "playtime": {
+      "main_story": "15 hours",
+      "completionist": "45 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Steam"
+      ],
+      "cracked_by": "CPY"
+    }
+  },
+  {
+    "id": "watch-dogs-legion",
+    "title": "Watch Dogs: Legion",
+    "release_year": 2020,
+    "info": {
+      "genre": [
+        "Action-Adventure",
+        "Open World"
+      ],
+      "description": "In the near future, London is facing its downfall. It’s up to you to build a resistance to fight back. Recruit and play as anyone in the city. Everyone you see has a unique backstory, personality, and skill set."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-4460",
+        "ram": "8 GB",
+        "gpu": "GTX 960"
+      },
+      "recommended": {
+        "cpu": "Core i7-4790",
+        "ram": "8 GB",
+        "gpu": "GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Ubisoft Connect",
+      "rating_percentage": 70,
+      "count": 20000
+    },
+    "playtime": {
+      "main_story": "18 hours",
+      "completionist": "55 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "BattleEye",
+        "Ubisoft Connect"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "far-cry-6",
+    "title": "Far Cry 6",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "First-Person Shooter",
+        "Open World"
+      ],
+      "description": "Welcome to Yara, a tropical paradise frozen in time. As the dictator of Yara, Antón Castillo is intent on restoring his nation back to its former glory by any means, with his son, Diego, following in his bloody footsteps."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Ryzen 3 1200",
+        "ram": "8 GB",
+        "gpu": "RX 460"
+      },
+      "recommended": {
+        "cpu": "Ryzen 5 3600X",
+        "ram": "16 GB",
+        "gpu": "RX Vega 64"
+      }
+    },
+    "reviews": {
+      "source": "Ubisoft Connect",
+      "rating_percentage": 75,
+      "count": 30000
+    },
+    "playtime": {
+      "main_story": "24 hours",
+      "completionist": "60 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo",
+        "Ubisoft Connect"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "ghostwire-tokyo",
+    "title": "Ghostwire: Tokyo",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Action-Adventure"
+      ],
+      "description": "Tokyo is overrun by deadly supernatural forces, perpetrated by a dangerous occultist, causing Tokyo’s population to vanish in an instant. Ally with a powerful spectral entity on their quest for vengeance and master a powerful arsenal of abilities to unravel the dark truth behind the disappearance."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i7 4770K",
+        "ram": "12 GB",
+        "gpu": "GTX 1060"
+      },
+      "recommended": {
+        "cpu": "Core i7 6700",
+        "ram": "16 GB",
+        "gpu": "RTX 2060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 82,
+      "count": 15000
+    },
+    "playtime": {
+      "main_story": "11 hours",
+      "completionist": "25 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo (Removed)",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "deathloop",
+    "title": "DEATHLOOP",
+    "release_year": 2021,
+    "info": {
+      "genre": [
+        "First-Person Shooter",
+        "Immersive Sim"
+      ],
+      "description": "DEATHLOOP is a next-gen first person shooter from Arkane Lyon, the award-winning studio behind Dishonored. In DEATHLOOP, two rival assassins are trapped in a mysterious timeloop on the island of Blackreef, doomed to repeat the same day for eternity."
+    },
+    "release_price": {
+      "amount": 59.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-8400",
+        "ram": "12 GB",
+        "gpu": "GTX 1060 6GB"
+      },
+      "recommended": {
+        "cpu": "Core i7-9700K",
+        "ram": "16 GB",
+        "gpu": "RTX 2060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 80,
+      "count": 25000
+    },
+    "playtime": {
+      "main_story": "16 hours",
+      "completionist": "30 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Denuvo (Removed)",
+        "Steam"
+      ],
+      "cracked_by": "EMPRESS"
+    }
+  },
+  {
+    "id": "vampire-survivors",
+    "title": "Vampire Survivors",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Roguelike",
+        "Bullet Hell",
+        "Indie"
+      ],
+      "description": "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you."
+    },
+    "release_price": {
+      "amount": 4.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Intel Pentium 4",
+        "ram": "1 GB",
+        "gpu": "DX10/11 compatible"
+      },
+      "recommended": {
+        "cpu": "Intel Pentium 4",
+        "ram": "1 GB",
+        "gpu": "DX10/11 compatible"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 98,
+      "count": 200000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "50 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "powerwash-simulator",
+    "title": "PowerWash Simulator",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Simulation",
+        "Casual",
+        "Indie"
+      ],
+      "description": "Release the pressure with PowerWash Simulator! Wash away your worries with the soothing sounds of high-pressure water. Fire up your power washer and blast away every speck of dirt and grime you can find."
+    },
+    "release_price": {
+      "amount": 24.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i5-760",
+        "ram": "4 GB",
+        "gpu": "GTX 760"
+      },
+      "recommended": {
+        "cpu": "Core i7-7700",
+        "ram": "8 GB",
+        "gpu": "GTX 1060"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 60000
+    },
+    "playtime": {
+      "main_story": "25 hours",
+      "completionist": "40 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  },
+  {
+    "id": "euro-truck-simulator-2",
+    "title": "Euro Truck Simulator 2",
+    "release_year": 2012,
+    "info": {
+      "genre": [
+        "Simulation",
+        "Driving"
+      ],
+      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore from the UK, Belgium, Germany, Italy, the Netherlands, Poland, and many more, your endurance, skill and speed will all be pushed to their limits."
+    },
+    "release_price": {
+      "amount": 19.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Dual core 2.4 GHz",
+        "ram": "4 GB",
+        "gpu": "GeForce GTS 450"
+      },
+      "recommended": {
+        "cpu": "Quad core 3.0 GHz",
+        "ram": "6 GB",
+        "gpu": "GeForce GTX 760"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 97,
+      "count": 500000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "Various"
+    }
+  },
+  {
+    "id": "the-stanley-parable-ultra-deluxe",
+    "title": "The Stanley Parable: Ultra Deluxe",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Adventure",
+        "Walking Simulator",
+        "Indie"
+      ],
+      "description": "The Stanley Parable: Ultra Deluxe is a first person exploration game. It is an expanded re-imagining of the critically acclaimed, award winning indie game The Stanley Parable from 2013."
+    },
+    "release_price": {
+      "amount": 21.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "3.0 GHz",
+        "ram": "4 GB",
+        "gpu": "1GB VRAM"
+      },
+      "recommended": {
+        "cpu": "3.0 GHz",
+        "ram": "4 GB",
+        "gpu": "1GB VRAM"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 94,
+      "count": 30000
+    },
+    "playtime": {
+      "main_story": "3 hours",
+      "completionist": "10 hours"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "FLT"
+    }
+  },
+  {
+    "id": "mount-and-blade-ii-bannerlord",
+    "title": "Mount & Blade II: Bannerlord",
+    "release_year": 2022,
+    "info": {
+      "genre": [
+        "Action RPG",
+        "Strategy",
+        "Simulation"
+      ],
+      "description": "The horns sound, the ravens gather. An empire is torn by civil war. Beyond its borders, new kingdoms rise. Gird on your sword, don your armour, summon your followers and ride forth to win glory on the battlefields of Calradia."
+    },
+    "release_price": {
+      "amount": 49.99,
+      "currency": "EUR"
+    },
+    "pc_requirements": {
+      "minimum": {
+        "cpu": "Core i3-8100",
+        "ram": "6 GB",
+        "gpu": "GTX 660"
+      },
+      "recommended": {
+        "cpu": "Core i5-9600K",
+        "ram": "8 GB",
+        "gpu": "GTX 1060 3GB"
+      }
+    },
+    "reviews": {
+      "source": "Steam",
+      "rating_percentage": 87,
+      "count": 180000
+    },
+    "playtime": {
+      "main_story": "N/A",
+      "completionist": "N/A"
+    },
+    "piracy_status": {
+      "cracked": true,
+      "drm": [
+        "Steam"
+      ],
+      "cracked_by": "RUNE"
+    }
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

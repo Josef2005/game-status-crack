@@ -1,0 +1,33 @@
+{
+  "name": "game-status-crack",
+  "version": "1.0.1",
+  "description": "A library to fetch detailed video game information, including system requirements, crack status, reviews, DRM status, and more.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "games",
+    "videogames",
+    "gamedata",
+    "status",
+    "drm",
+    "crack",
+    "requirements"
+  ],
+  "author": {
+    "name": "Josef Amarù",
+    "email": "josefamaru05@gmail.com",
+    "url": "https://github.com/Josef2005"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josef2005/game-status.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Josef2005/game-status/issues"
+  },
+  "homepage": "https://github.com/Josef2005/game-status#readme"
+}
